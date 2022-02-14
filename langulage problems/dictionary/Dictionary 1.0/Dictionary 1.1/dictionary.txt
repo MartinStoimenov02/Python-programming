@@ -1,3004 +1,3005 @@
-the	Опред. член
-a	Неопред. член
-To	За (до, към)
-Was	Бях
-I	Аз
-Is	Е (Съм)
-Of	От (на, за)
-That	Че (да, този, онзи)
-You	Ти
-He	Той
-It	То (това)
-In	В (на, по през, при)
-His	Негов
-Had	Имах
-Do	Правя (върша)
-With	С (на, при, от)
-Not	Не
-Her	Нейн
-For	За
-On	На
-At	В (на, при)
-But	Но
-She	Тя
-Him	Него
-As	Като
-Are	Са (съм)
-Said	Казан
-They	Те
-We	Ние
-All	Всичко (всички, целият)
-This	Този (това)
-Have	Имам (притежавам)
-There	Там
-What	Какво
-Out	Вън
-Up	Нагоре
-One	Един
-From	От
-Me	Мене (ми)
-Go	Отивам (ходя, вървя)
-Were	Бяха
-Would	Щях
-Like	Подобен (като, харесвам)
-When	Кога? (когато)
-Could	Бих могъл
-Then	Тогава (след това)
-Be	Бъде
-Them	Тях
-Did	Правех
-Been	Бъде
-Now	Сега
-Look	Гледам (поглед, изглеждам)
-Back	Назад (обратен, гръб)
-My	Мой
-No	Не
-Your	Твой, ваш
-Which	Кой /от няколко/
-About	Около (приблизително)
-Time	Време
-Down	Надолу
-Into	В, (към)
-Who	Кой
-Can	Мога
-Know	Зная (познавам)
-If	Ако
-Just	Просто (тъкмо)
-Their	Техен
-Get	Вземам
-Over	Над (върху)
-More	Повече (по /сравн. ст./)
-Some	Няколко (някакъв)
-Man	Мъж, човек
-Come	Идвам
-An	Неопред. член
-So	Така (така че)
-Other	Друг
-Little	Малко
-See	Виждам
-Here	Тук (това място, ето)
-Thing	Нещо
-Hand	Ръка
-By	От
-Will	Ще
-Way	Начин
-Again	Отново (пак, още веднъж)
-Right	Дясно (правилно)
-Only	Само (само)
-Am	Съм
-How	Как?
-Think	Мисля
-Or	Или
-Got	Получих
-Good	Добър
-Eye	Око
-Well	Добре
-Thought	Мисъл
-Day	Ден
-Two	Две
-Than	Отколкото (освен)
-Before	Преди
-Where	Къде
-Very	Много
-Say	Казвам
-Came	Дойдох
-Any	Някой
-Old	Стар
-Still	Все още
-After	След
-Of	От (на)
-Has	Имам
-Never	Никога
-Going	Отиване
-Even	Още (дори)
-Much	Много
-Went	Отиване
-To	До, на
-Away	Далеч
-Something	Нещо
-First	Първи (начало)
-Make	Правя
-Head	Глава (главен)
-Want	Искам (желая)
-Turn	Завой (завивам, въртя)
-Face	Лице
-Made	Направен (изработен)
-Seem	Изглежда
-Call	Наричам (повикване)
-Ask	Питам (поисквам)
-Should	Трябва
-Through	През
-Long	Дълъг (продължителен)
-Let	Нека (позволявам)
-Take	Вземам (хващам)
-Saw	Видях
-Around	Наоколо
-Our	Наш
-Door	Врата
-Last	Последен (миналия)
-Tell	Казвам (разквам)
-Might	Може
-Own	Свой (собствен)
-Night	Нощ (вечер)
-Year	Година (възраст)
-Must	Трябва
-Because	Защото (тъй като, понеже)
-Voice	Глас
-Such	Подобен (такъв)
-Room	Стя (помещение
-Place	Място
-Those	Тези (онези)
-Work	Работа
-Put	Слагам (поставям)
-Bill	Сметка (законороект)
-Nothing	Нищо (никак)
-Most	Най- /сравнителна степен/
-House	Къща (дом)
-Why	Защо?
-May	Мога (може би)
-Side	Страна
-Great	Голям (велик)
-These	Тези
-White	Бял
-People	Хора (народ)
-Upon	При
-Left	Ляв
-Open	Отворен (открит)
-Himself	Се (себе си)
-Friends	Приятел (приятелка)
-Felt	Чувствах
-Three	Три
-Knew	Знаех
-Another	Друг
-Once	Веднъж, един път
-Give	Давам (предавам, подарявам)
-Almost	Почти (едва ли не)
-Mind	Ум
-Took	Взех
-Light	Светлина (светя)
-Yes	Да
-Love	Любов (обичам)
-Boy	Момче
-Looking	Търси
-While	Докато
-Sound	Звук
-Moment	Момент (миг)
-Men	Мъже
-Ever	Някога
-Under	Под
-Told	Казах
-Really	Наистина ли (тъй ли)
-Life	Живот
-World	Свят
-Same	Също (единакъв)
-Sure	Сигурен
-New	Нов
-Found	Намерих
-Being	Съществуване
-Enough	Достатъчен
-Gone	Отиващ
-Many	Много
-Big	Голям
-Does	Виж Do
-Every	Всеки
-Began	Започнал
-Always	Винаги
-Girl	Момиче
-Home	Дом (вкъщи)
-Without	Без
-Heard	Чух
-Toward(s)	Към (по посока на)
-Need	Нужда (трябва)
-Stop	Спри
-Maybe	Може би
-Part	Част
-Use	Употреба (използване)
-Okay или OK	Правилен (съгласен)
-Use	Употреба (използване)
-Though	Макар че (въпроеки че)
-Far	Далечен, отдалечен
-Name	Име (намименование)
-Word	Дума (слово)
-Behind	Зад (отзад)
-Try	Опит (опитвам)
-Help	Помощ
-Also	Също, освен това
-Better	По-добър (по-подходящ)
-Mean	Означавам (знача)
-Father	Баща
-Against	Срещу (против)
-Anything	Нещо
-Start	Начало (старт)
-Yet	Още (все още, все пак)
-Walk	Ходя
-Woman	Жена
-Seen	Гледах
-Close	Затворен (отблизо)
-Remember	Помня
-Car	Кола (автомобил)
-Between	Между
-Until	Докато
-Both	И двамата<
-Done	Извършен (свършен)
-God	Бог (господ)
-Find	Намирам (откривам)
-Water	Вода
-Arm	Ръка
-Few	Малко /на брой/
-Hear	Чувам
-Dog	Куче
-Happen	Става (случва се)
-Its	Негов
-Book	Книга
-Morning	Сутрин
-Gid	Дете (хлапе
-Street	Улица
-Believe	Вярвам
-Talk	Говоря (приказвам)
-Mother	Майка
-Kind	Вид (род)
-Coming	Идващ (настъпващ)
-Each	Всеки (всекиму)
-Black	Черен
-Half	Половин
-Red	Червен
-Stood	Стоях
-Young	Млад
-Shall	Ще
-Show	Показвам
-Feet	Крака
-Feel	Чувствам (усещам)
-Keep	Държа
-Next	Следващ (съседен)
-Dark	Тъмен
-Along	Покрай
-Pass	Минавам (преминавам)
-Course	Курс
-Window	Прозорец
-Dead	Мъртъв
-Hour	Час
-Wanted	Търсен (желан)
-Matter	Материя (значение)
-Since	Откакто
-Cry	Викам (рева, крещя)
-Heart	Сърце (душа)
-Answer	Отговор
-Small	Малък (дребен)
-Yeah	Да (така ли)
-Doing	Вършене, правене
-Four	Четири
-Move	Движа (местя)
-Live	Живея
-Suddenly	Внезапно (неочаквано)
-Five	Пет
-Body	Тяло
-Fire	Огън
-Mouth	Уста
-Leave	Напускам (оставям)
-Smile	Усмивка
-State	Състояние (държава)
-Samily	Семейство (фамилия)
-Road	Път
-Front	Преден
-Laugh	Смея се
-Gave	Взех
-Across	Напряко
-Step	Стъпка (крачка)
-Quite	Съвсем, доста
-Change	Сменям (променям)
-Later	По-късно
-Together	Заедно
-Soon	Скоро
-Least	Най-малък (най-маловажен
-Second	Втори
-Kill	Убивам
-Watch	Гледам
-Wife	Съпруга
-Hard	Твърд (корав)
-Wait	Чакам
-Sat	Седнах
-Feeling	Чувство
-High	Висок
-Guy	Човек (момче)
-Idea	Идея
-Line	Линия
-Fear	Страх
-Miss	Пропускам (госпожица)
-Bad	Слаб
-Hair	Коса (косъм)
-Minute	Минута
-Everything	Всичко
-Please	Моля
-Gray	Сив
-Follow	Следвам (вървя след)
-Hope	Надежда
-Blood	Кръв
-Won	Спечелих
-Air	Въздух
-Perhaps	Може би
-Set	Настройвам (комплект0
-Tree	Дърво
-Run	Тичам
-Death	Смърт
-Else	Друг
-Already	Вече
-Myself	Себе си
-Bed	Легло
-Lot	Много (жребий)
-Point	Точка
-Money	Пари
-Getting	-
-Rest	Почивка
-Whole	Цял
-Pull	Дърпам
-Business	Работа
-Either	Или (единият, другият)
-Lady	Дама
-Play	Играя
-Suppose	Предполагам (допускам)
-Top	Връх
-Reach	Достигам (простирам се)
-Week	Седмица
-Thank	Благодаря
-Wall	Стена
-Real	Истински (действителен)
-Held	Държах
-Best	Най-добър
-Read	Чета
-Thinking	Мислещ (разумен)
-Inside	Вътре
-Stay	Оставам (отсядам, престой)
-Question	Въпрос
-Full	Пълен
-Cold	Студен
-Die	Умирам
-Sir	Господине
-Case	Случай (положение)
-Ran	Бягах
-Sometimes	Понякога
-Power	Мощност (сила)
-Wish	Искам (желая, пожелавам)
-Dream	Сън
-Stand	Стоя
-Son	Син
-Herself	Себе си
-Pretty	Приятен (привлекателен)
-Paper	Хартия
-Shoulder	Рамо
-Care	Грижа
-Alone	Сам (самотен)
-Making	Създаване
-Near	Наблизо
-Finger	пръст
-Hold	Държа
-Return	Връщам
-Fact	Действителност
-Understand	Разбирам
-Guess	Предполагам (гадая)
-Table	Маса
-Dear	Скъп (драг)
-Trying	Мъчителен
-Fell	Падах
-Floor	Етаж
-Mile	Миля
-Probably	Вероятно (навярно)
-Type	Тип (вид)
-Deep	Дълбок
-Glass	Стъкло (очила)
-Standing	Стоящ (застанал)
-Trouble	Безпокойство
-However	Както и да е
-Taken	Взет
-Hey	Хей
-Sort	Вид (категория)
-Lay	Полагам
-Town	Град (градче)
-Sleep	Сън (спане)
-School	Училище
-Lost	Загубен (изгубен)
-Green	Зелен
-Gonna	Ще
-Lip	Устна
-Round	Кръгъл
-Clear	Ясен (бистър)
-Heaving	Вдигане
-Scream	Писък
-Touch	Докосвам
-Blue	Син
-Hundred	Сто
-Know	Зная
-Running	Бягащ (тичащ)
-Large	Голям (едър)
-Surprise	Изненада
-Beside	Освен (до)
-Talking	Говорещ
-Ten	Десет
-Less	Степен - по-малко
-Letter	Буква
-Twenty	Двадесет
-Snow	Сняг
-Kept	Пазех
-Brought	Донесох
-Someone	Някой
-Past	Минал
-Country	Страна
-Leg	Крак
-Pick	Бера (късам)
-Brother	Брат
-Wood	Гора
-Women	Жени
-Wrong	Грешен
-Sense	Смисъл
-Hurt	Наранявам (причинявам болка)
-Cut	Режа
-Drop	Капка
-Ring	Пръстен
-Sitting	Сядане
-True	Вярно
-Poor	Беден
-Order	Ред (последователност)
-Fang	Зъб
-Child	Дете
-Ready	Готов
-Land	Земя (суша)
-Hot	Горещ
-Speak	Говоря
-Children	Деца
-Fine	Чудесно
-Given	Определен (даден)
-Able	Способен
-Become	Ставам
-Low	Нисък
-Person	Лице (човек)
-Evening	Вечер
-Outside	Външност
-Listen	Слушам
-Wind	Вятър, буря
-Smell	Мирис (аромат)
-Chair	Стол
-Six	Шест
-Forward	Преден
-Hill	Хълм
-Reason	Причина
-Ground	Земя (почва)
-Above	Горе (отгоре)
-Chance	Шанс (възможност)
-Story	История
-Late	Късен
-Saying	Казвайки
-Star	Звезда
-Husband	Съпруг
-Ago	Преди
-Except	Изключвам
-Lord	Господар (стопанин)
-Sorry	Съжалявам
-Number	Брой, число
-Roll	Търкаляне
-Longer	По-дълъг
-Rock	Скала
-Learn	Уча
-Often	Често
-Although	Въпреки че (макар че)
-Shit	Лайна (глупости)
-Sister	Сестра
-Strange	Чужд (непонзат)
-Bring	Нося
-Pain	Болка
-Nod	Кимване
-Fall	Падане
-Finally	Накрая
-Among	Между (измежду)
-Cause	Причина
-Afraid	Изплашен (уплашен)
-Notice	Съобщение (известие)
-Sun	Слънце
-Month	Месец
-Shut	Затварям (приклещвам)
-Box	Кутия
-Hell	Ад
-Office	Офис (кантора)
-During	През (по време на)
-Wonder	Чудо
-Beyond	Отвъд (оттаткъ)
-Became	Станах
-Shadow	Сянка
-Slowly	Бавно (полека)
-Instead	Вместо (замяна)
-Ear	Ухо
-Picture	Картина
-Interest	Интерес
-Cannot	Не може
-Present	Сегашен (настоящ)
-Bit	Парченце (късче)
-Living	Живеене
-Remain	Оставам
-Appear	Явявам се (показвам се)
-Store	Магазин (запасявам)
-Marry	Женя/омъжвам
-Rather	По-скоро (по-точно)
-Doubt	Съмнявам се
-Teeth	Зъби
-Force	Сила (енергия)
-Spoke	Говорех
-Finish	Завършвам (довършвам)
-Indeed	
-Seat	Седалка (място за сядане)
-Nor	Нито (също така не)
-Save	Спасявам (спестявам)
-Job	Работа
-War	Война
-Dress	Обличам
-Cover	Покривам
-Realize	Реализирам (осъзнавам)
-Gun	Пистолет
-Heavy	Тежък
-Waiting	Чакане (очакване)
-Fellow	Колега (другар)
-Sign	Знак
-Stuff	Материя (вещество)
-Decide	Решавам (избирам)
-Expect	Очаквам (надявам се)
-Hit	Удрям
-Corner	Ъгъл
-Beaver	Работя усилено
-King	Крал (цар)
-Happy	Щаслив
-Phone	Телефон
-Several	Няколко (неколцина)
-City	Голям град
-News	Новина (вест)
-Summer	Лято
-Different	Различен
-Sit	Седя
-Actually	Всъщност (в действителност)
-Caught	Хванах
-Taking	Превземане
-Broken	Счупен
-Early	Ранен
-Bright	Светъл (ярък)
-Daughter	Дъщеря
-Enter	Влизам
-Shot	Изстрел
-Carry	Нося
-Foot	Крак
-Scare	Плаша (изплашвам)
-Tad	Малчуган
-Holding	Владение (захващане)
-Human	Човешки
-Whatever	Каквото и да е
-Yourself	Себе си
-Form	Форма
-Worry	Тревожа (безпокоя)
-Shook	Клатех
-Exactly	Точно (именно така)
-Neck	Врат, шия
+the - опред. член
+a - неопред. член
+to - за (до, към)
+was - бях
+i - аз
+is - е (съм)
+of - от (на, за)
+that - че (да, този, онзи)
+you - ти
+he - той
+it - то (това)
+in - в (на, по през, при)
+his - негов
+had - имах
+do - правя (върша)
+with - с (на, при, от)
+not - не
+her - нейн
+for - за
+on - на
+at - в (на, при)
+but - но
+she - тя
+him - него
+as - като
+are - са (съм)
+said - казан
+they - те
+we - ние
+all - всичко (всички, целият)
+this - този (това)
+have - имам (притежавам)
+there - там
+what - какво
+out - вън
+up - нагоре
+one - един
+from - от
+me - мене (ми)
+go - отивам (ходя, вървя)
+were - бяха
+would - щях
+like - подобен (като, харесвам)
+when - кога? (когато)
+could - бих могъл
+then - тогава (след това)
+be - бъде
+them - тях
+did - правех
+been - бъде
+now - сега
+look - гледам (поглед, изглеждам)
+back - назад (обратен, гръб)
+my - мой
+no - не
+your - твой, ваш
+which - кой /от няколко/
+about - около (приблизително)
+time - време
+down - надолу
+into - в, (към)
+who - кой
+can - мога
+know - зная (познавам)
+if - ако
+just - просто (тъкмо)
+their - техен
+get - вземам
+over - над (върху)
+more - повече (по /сравн. ст./)
+some - няколко (някакъв)
+man - мъж, човек
+come - идвам
+an - неопред. член
+so - така (така че)
+other - друг
+little - малко
+see - виждам
+here - тук (това място, ето)
+thing - нещо
+hand - ръка
+by - от
+will - ще
+way - начин
+again - отново (пак, още веднъж)
+right - дясно (правилно)
+only - само (само)
+am - съм
+how - как?
+think - мисля
+or - или
+got - получих
+good - добър
+eye - око
+well - добре
+thought - мисъл
+day - ден
+two - две
+than - отколкото (освен)
+before - преди
+where - къде
+very - много
+say - казвам
+came - дойдох
+any - някой
+old - стар
+still - все още
+after - след
+of - от (на)
+has - имам
+never - никога
+going - отиване
+even - още (дори)
+much - много
+went - отиване
+to - до, на
+away - далеч
+something - нещо
+first - първи (начало)
+make - правя
+head - глава (главен)
+want - искам (желая)
+turn - завой (завивам, въртя)
+face - лице
+made - направен (изработен)
+seem - изглежда
+call - наричам (повикване)
+ask - питам (поисквам)
+should - трябва
+through - през
+long - дълъг (продължителен)
+let - нека (позволявам)
+take - вземам (хващам)
+saw - видях
+around - наоколо
+our - наш
+door - врата
+last - последен (миналия)
+tell - казвам (разквам)
+might - може
+own - свой (собствен)
+night - нощ (вечер)
+year - година (възраст)
+must - трябва
+because - защото (тъй като, понеже)
+voice - глас
+such - подобен (такъв)
+room - стя (помещение
+place - място
+those - тези (онези)
+work - работа
+put - слагам (поставям)
+bill - сметка (законороект)
+nothing - нищо (никак)
+most - най- /сравнителна степен/
+house - къща (дом)
+why - защо?
+may - мога (може би)
+side - страна
+great - голям (велик)
+these - тези
+white - бял
+people - хора (народ)
+upon - при
+left - ляв
+open - отворен (открит)
+himself - се (себе си)
+friends - приятел (приятелка)
+felt - чувствах
+three - три
+knew - знаех
+another - друг
+once - веднъж, един път
+give - давам (предавам, подарявам)
+almost - почти (едва ли не)
+mind - ум
+took - взех
+light - светлина (светя)
+yes - да
+love - любов (обичам)
+boy - момче
+looking - търси
+while - докато
+sound - звук
+moment - момент (миг)
+men - мъже
+ever - някога
+under - под
+told - казах
+really - наистина ли (тъй ли)
+life - живот
+world - свят
+same - също (единакъв)
+sure - сигурен
+new - нов
+found - намерих
+being - съществуване
+enough - достатъчен
+gone - отиващ
+many - много
+big - голям
+does - виж do
+every - всеки
+began - започнал
+always - винаги
+girl - момиче
+home - дом (вкъщи)
+without - без
+heard - чух
+toward(s) - към (по посока на)
+need - нужда (трябва)
+stop - спри
+maybe - може би
+part - част
+use - употреба (използване)
+okay или ok - правилен (съгласен)
+use - употреба (използване)
+though - макар че (въпроеки че)
+far - далечен, отдалечен
+name - име (намименование)
+word - дума (слово)
+behind - зад (отзад)
+try - опит (опитвам)
+help - помощ
+also - също, освен това
+better - по-добър (по-подходящ)
+mean - означавам (знача)
+father - баща
+against - срещу (против)
+anything - нещо
+start - начало (старт)
+yet - още (все още, все пак)
+walk - ходя
+woman - жена
+seen - гледах
+close - затворен (отблизо)
+remember - помня
+car - кола (автомобил)
+between - между
+until - докато
+both - и двамата<
+done - извършен (свършен)
+god - бог (господ)
+find - намирам (откривам)
+water - вода
+arm - ръка
+few - малко /на брой/
+hear - чувам
+dog - куче
+happen - става (случва се)
+its - негов
+book - книга
+morning - сутрин
+gid - дете (хлапе
+street - улица
+believe - вярвам
+talk - говоря (приказвам)
+mother - майка
+kind - вид (род)
+coming - идващ (настъпващ)
+each - всеки (всекиму)
+black - черен
+half - половин
+red - червен
+stood - стоях
+young - млад
+shall - ще
+show - показвам
+feet - крака
+feel - чувствам (усещам)
+keep - държа
+next - следващ (съседен)
+dark - тъмен
+along - покрай
+pass - минавам (преминавам)
+course - курс
+window - прозорец
+dead - мъртъв
+hour - час
+wanted - търсен (желан)
+matter - материя (значение)
+since - откакто
+cry - викам (рева, крещя)
+heart - сърце (душа)
+answer - отговор
+small - малък (дребен)
+yeah - да (така ли)
+doing - вършене, правене
+four - четири
+move - движа (местя)
+live - живея
+suddenly - внезапно (неочаквано)
+five - пет
+body - тяло
+fire - огън
+mouth - уста
+leave - напускам (оставям)
+smile - усмивка
+state - състояние (държава)
+samily - семейство (фамилия)
+road - път
+front - преден
+laugh - смея се
+gave - взех
+across - напряко
+step - стъпка (крачка)
+quite - съвсем, доста
+change - сменям (променям)
+later - по-късно
+together - заедно
+soon - скоро
+least - най-малък (най-маловажен
+second - втори
+kill - убивам
+watch - гледам
+wife - съпруга
+hard - твърд (корав)
+wait - чакам
+sat - седнах
+feeling - чувство
+high - висок
+guy - човек (момче)
+idea - идея
+line - линия
+fear - страх
+miss - пропускам (госпожица)
+bad - слаб
+hair - коса (косъм)
+minute - минута
+everything - всичко
+please - моля
+gray - сив
+follow - следвам (вървя след)
+hope - надежда
+blood - кръв
+won - спечелих
+air - въздух
+perhaps - може би
+set - настройвам (комплект0
+tree - дърво
+run - тичам
+death - смърт
+else - друг
+already - вече
+myself - себе си
+bed - легло
+lot - много (жребий)
+point - точка
+money - пари
+getting - -
+rest - почивка
+whole - цял
+pull - дърпам
+business - работа
+either - или (единият, другият)
+lady - дама
+play - играя
+suppose - предполагам (допускам)
+top - връх
+reach - достигам (простирам се)
+week - седмица
+thank - благодаря
+wall - стена
+real - истински (действителен)
+held - държах
+best - най-добър
+read - чета
+thinking - мислещ (разумен)
+inside - вътре
+stay - оставам (отсядам, престой)
+question - въпрос
+full - пълен
+cold - студен
+die - умирам
+sir - господине
+case - случай (положение)
+ran - бягах
+sometimes - понякога
+power - мощност (сила)
+wish - искам (желая, пожелавам)
+dream - сън
+stand - стоя
+son - син
+herself - себе си
+pretty - приятен (привлекателен)
+paper - хартия
+shoulder - рамо
+care - грижа
+alone - сам (самотен)
+making - създаване
+near - наблизо
+finger - пръст
+hold - държа
+return - връщам
+fact - действителност
+understand - разбирам
+guess - предполагам (гадая)
+table - маса
+dear - скъп (драг)
+trying - мъчителен
+fell - падах
+floor - етаж
+mile - миля
+probably - вероятно (навярно)
+type - тип (вид)
+deep - дълбок
+glass - стъкло (очила)
+standing - стоящ (застанал)
+trouble - безпокойство
+however - както и да е
+taken - взет
+hey - хей
+sort - вид (категория)
+lay - полагам
+town - град (градче)
+sleep - сън (спане)
+school - училище
+lost - загубен (изгубен)
+green - зелен
+gonna - ще
+lip - устна
+round - кръгъл
+clear - ясен (бистър)
+heaving - вдигане
+scream - писък
+touch - докосвам
+blue - син
+hundred - сто
+know - зная
+running - бягащ (тичащ)
+large - голям (едър)
+surprise - изненада
+beside - освен (до)
+talking - говорещ
+ten - десет
+less - степен - по-малко
+letter - буква
+twenty - двадесет
+snow - сняг
+kept - пазех
+brought - донесох
+someone - някой
+past - минал
+country - страна
+leg - крак
+pick - бера (късам)
+brother - брат
+wood - гора
+women - жени
+wrong - грешен
+sense - смисъл
+hurt - наранявам (причинявам болка)
+cut - режа
+drop - капка
+ring - пръстен
+sitting - сядане
+true - вярно
+poor - беден
+order - ред (последователност)
+fang - зъб
+child - дете
+ready - готов
+land - земя (суша)
+hot - горещ
+speak - говоря
+children - деца
+fine - чудесно
+given - определен (даден)
+able - способен
+become - ставам
+low - нисък
+person - лице (човек)
+evening - вечер
+outside - външност
+listen - слушам
+wind - вятър, буря
+smell - мирис (аромат)
+chair - стол
+six - шест
+forward - преден
+hill - хълм
+reason - причина
+ground - земя (почва)
+above - горе (отгоре)
+chance - шанс (възможност)
+story - история
+late - късен
+saying - казвайки
+star - звезда
+husband - съпруг
+ago - преди
+except - изключвам
+lord - господар (стопанин)
+sorry - съжалявам
+number - брой, число
+roll - търкаляне
+longer - по-дълъг
+rock - скала
+learn - уча
+often - често
+although - въпреки че (макар че)
+shit - лайна (глупости)
+sister - сестра
+strange - чужд (непонзат)
+bring - нося
+pain - болка
+nod - кимване
+fall - падане
+finally - накрая
+among - между (измежду)
+cause - причина
+afraid - изплашен (уплашен)
+notice - съобщение (известие)
+sun - слънце
+month - месец
+shut - затварям (приклещвам)
+box - кутия
+hell - ад
+office - офис (кантора)
+during - през (по време на)
+wonder - чудо
+beyond - отвъд (оттаткъ)
+became - станах
+shadow - сянка
+slowly - бавно (полека)
+instead - вместо (замяна)
+ear - ухо
+picture - картина
+interest - интерес
+cannot - не може
+present - сегашен (настоящ)
+bit - парченце (късче)
+living - живеене
+remain - оставам
+appear - явявам се (показвам се)
+store - магазин (запасявам)
+marry - женя/омъжвам
+rather - по-скоро (по-точно)
+doubt - съмнявам се
+teeth - зъби
+force - сила (енергия)
+spoke - говорех
+finish - завършвам (довършвам)
+indeed - 
+seat - седалка (място за сядане)
+nor - нито (също така не)
+save - спасявам (спестявам)
+job - работа
+war - война
+dress - обличам
+cover - покривам
+realize - реализирам (осъзнавам)
+gun - пистолет
+heavy - тежък
+waiting - чакане (очакване)
+fellow - колега (другар)
+sign - знак
+stuff - материя (вещество)
+decide - решавам (избирам)
+expect - очаквам (надявам се)
+hit - удрям
+corner - ъгъл
+beaver - работя усилено
+king - крал (цар)
+happy - щаслив
+phone - телефон
+several - няколко (неколцина)
+city - голям град
+news - новина (вест)
+summer - лято
+different - различен
+sit - седя
+actually - всъщност (в действителност)
+caught - хванах
+taking - превземане
+broken - счупен
+early - ранен
+bright - светъл (ярък)
+daughter - дъщеря
+enter - влизам
+shot - изстрел
+carry - нося
+foot - крак
+scare - плаша (изплашвам)
+tad - малчуган
+holding - владение (захващане)
+human - човешки
+whatever - каквото и да е
+yourself - себе си
+form - форма
+worry - тревожа (безпокоя)
+shook - клатех
+exactly - точно (именно така)
+neck - врат, шия
 
-pencil	молив
-table	маса
-countinue	продължение
-people	хора
+pencil - молив
+table - маса
+countinue - продължение
+people - хора
 
-continue	Продължавам
-drink	Напитка (пия)
-free	Свободен (безплатно)
-sky	Небе
-mark	Марка (знак/белег)
-company	Компания (дружество)
-breath	Дъх (дишане)
-reply	Отговор
-fat	Дебел (мазнина)
-park	Парк
-rose	Розов (роза)
-whose	Който
-figure	Фигура
-lie	Лъжа
-act	Действам
-anyway	Както и да е
-cross	Кръст (напречно)
-master	Майстор (господар)
-game	Игра
-pocket	Джоб
-stone	Камък
-strong	Силен
-russian	Руски
-horse	Кон
-baby	Бебе
-knee	Коляно
-police	Полиция
-silence	Тишина (мълчание)
-watch	Гледам
-afternoon	Следобед
-dollar	Долар
-eat	Ям
-deal	Сделка
-fast	Бърз
-add	Добавям
-itself	Себе си
-none	Никой
-check	Проверка
-sonny	Синко
-cheek	Буза
-meant	Знача (среден)
-push	Тласък
-nature	Природа (характер)
-fucking	Шибан
-strike	Удрям
-tear	Сълза (късам)
-chapter	Глава на книга
-middle	Среден
-note	Бележка (забележка)
-crazy	Луд
-sent	Изпратено
-smoke	Пуша (дим)
-bird	Птица
-raise	Повишаване
-promise	Обещание
-thousand	Хиляда
-hall	Зала
-nice	Хубав (приятен)
-moving	Движещ се
-see	Виждам
-whom	Кого
-law	Право
-meet	Среща
-quiet	Тих
-sight	Зрение
-throat	Гърло
-age	Възраст
-wide	Широк
-desire	Желание
-hole	Дупка
-certainly	Сигурно
-terrible	Ужасен
-earth	Земя
-kiss	Целувка
-lock	Заключам
-manner	Начин
-party	Парти
-movie	Филм
-possible	Възможен
-kitchen	Кухня
-piece	Парче
-attention	Внимание
-silver	Сребърен
-damn	Проклет
-folk	Народен
-glance	Рикоширам (отскачам)
-themselves	Себе си
-laugh	Смях
-pay	Плащам
-fuck	Вулг. копулирам
-easy	Лесно
-west	Запад
-whisper	Шепот
-today	Днес
-reailly	Наистина
-telling	Казвам
-shirt	Риза
-ahead	Напред
-till	Докато
-walking	Ходене
-edge	Ръб
-empty	Празен
-quickly	Бързо
-north	Север
-simply	Просто
-tire	Уморявам (гума)
-food	Храна
-somehow	Някак си
-clock	Часовник
-nearly	Почти
-bag	Чанта
-clothes	Дрехи
-south	Юг
-american	Американски
-unite	Съединявам
-devour	Поглъщам
-pleasure	Удоволствие
-river	Река
-problem	Проблем
-below	Долу
-break	Почивка (чупя)
-couple	Двойка
-report	Доклад
-key	Ключ
-shape	Форма
-within	В предела на
-third	Трети
-anyone	Някой
-count	Броене
-quick	Бързо
-seven	Седем
-plan	План
-tonight	Довечера
-path	Път
-yellow	Жълт
-drive	Път
-huge	Огромен
-bank	Банка
-control	Контрол
-memory	Памет (спомен)
-working	Работен
-brain	Мозък
-goes	Отива
-met	Срещнах
-professor	Професор
-mine	Мой
-wearing	Носене
-grew	Израстнал
-animal	Животно
-glad	Радостен
-hurry	Бързам
-silent	Безшумен
-thirty	Тридесет
-hardly	Едва ли
-mountain	Планина
-ball	Топка
-thin	Тънък
-think	Мисля
-direction	Посока
-drew	Изготвих
-ham	Бедро
-important	Важно
-led	Воден
-grab	Загребване
-receive	Получавам
-wolf	Вълк
-knock	Чукам
-slip	Хлъзгане
-loud	Шумен 9силно)
-brown	Кафяв
-eight	Осем
-wheel	Колело
-beautiful	Красив
-begin	Започвам
-hate	Мразя
-lying	Лъжлив
-retrieve	Изтегли
-secret	Тайна
-wild	Див
-color	Цвят
-fair	Справедлив
-east	Изток
-wing	Крило
-main	Основен
-visit	Посещение
-following	Следващ
-sharp	Рязък
-subject	Предмет
-understood	Разбран
-lake	Езеро
-page	Страница
-skin	Кожа
-station	Гара
-study	Проучване
-spring	Пролет
-account	Сметка
-building	Сграда
-desk	Бюро
-hung	Закачих
-fifty	Петдесет
-gold	Злато
-neither	Нито пък
-send	Изпращам
-stick	Пръчка
-straight	Прав
-darkness	Тъмнина
-experience	Опит
-bar	Бар
-imagine	Предполагам
-ship	Кораб
-thus	По този начин
-forget	Забравям
-nine	девет
-agree	Съгласен
-gotten	Намерил
-interior	Интериор
-rain	Дъжд
-block	Блок
-fix	Фиксирам
-turning	Въртене
-warm	Топло
-whether	Дали
-dinner	Вечеря
-somewhere	Някъде
-space	Простанство
-chest	Гръден кош
-write	Пиша
-rich	Богат
-pause	Пауза
-single	Единичен
-yard	Двор
-further	Още
-leave	Оставям
-soft	Мек
-allow	Позволявам
-onto	Върху
-pale	Блед
-tie	Вратовръзка
-beginning	Начало
-ought	Трябва
-stare	Взирам
-doctor	Лекар
-sweet	Сладък
-grin	Хилене
-escape	Бягство
-press	Преса
-general	Общ
-shout	Викам
-aware	Осведомен
-consider	Обмислям
-grey	Сив
-card	Карта
-cloud	Облак
-spot	Място (петно)
-situation	Положение
-board	Дъска
-clean	Чист
-truth	Истина
-explain	Обяснявам
-lower	По-ниско
-machine	Машина
-post	Стълб
-view	Изглед
-project	Проект
-bottle	Бутилка
-broke	Разбит
-position	Позиция
-sea	Море
-field	Област
-fresh	Прясно
-join	Свързвам
-worse	По-лошо
-fly	Летя
-offer	Оферта
-rush	Прилив
-safe	Безпоасен
-jump	Скок
-smiling	Усмихат
-track	Следа
-bone	Кост
-murder	Убийство
-creature	Създание
-growing	Нараастващ
-monster	Чудовище
-system	Система
-beat	Бит
-funny	Забавен
-hospital	Болница
-play	Игра
-service	Обслужване
-common	Общ
-giving	Давам
-sudden	Внезапен
-usually	Обикновенно
-settle	Заселвам се
-slow	Бавен
-threw	Хвърли
-train	Влак
-unless	Освен ако
-ass	Задник
-beneath	Под
-discover	Откривам
-tomorrow	Утре
-bear	Нося (мечка)
-cool	Хладен
-alive	Жив
-crowd	Тълпа
-quarter	Тримесечие
-written	Писмен
-distance	Разстояние
-laid	Разстояние
-hat	Шапка
-trust	Доверие
-beauty	Красота
-tongue	Език
-arrive	Пристигам
-center	Център
-drove	Изпъди
-dare	Смея
-merry	Весел
-moon	Луна
-circle	Кръг
-leader	Ръководител
-conversation	Разговор
-expression	Изразяване
-guard	Охрана
-truck	Камион
-effort	Усилие
-fight	Борба
-reading	Четене
-group	Група
-mention	Споменавам
-forth	Напред
-haven	Убежище
-strength	Сила
-gate	Порта
-radio	Радио
-sick	Болен
-mad	Луд
-writing	Писане
-library	Библиотека
-music	Музика
-paid	Платен
-immediately	Веднага
-tall	Висок
-action	Действие
-evil	Лош (зъл)
-wet	Мокър
-concern	Загриженост
-dad	Татко
-especially	Особено
-purpose	Предназначение
-enemy	Враг
-special	Специален
-boss	Шеф
-likely	Вероятно
-soul	Душа
-speaking	Говорещ
-spirit	Дух
-boat	Лодка
-cigarette	Цигара
-faint	Слаб
-perfect	Перфектен
-enjoy	Наслада
-flat	Плосък
-blow	Духам
-mina	Мина
-forty	Четирдесет
-simple	Прост
-dozen	Дузина
-hello	Здравейте
-self	Същност
-everybody	Всички
-flash	Светкавица
-gain	Печалба
-shock	Шок
-charge	Зареждане
-danger	Опасност
-impossible	Невъзможно
-hi	Здрасти
-million	Милион
-pack	Пакет
-thoracic	Торакален
-knowing	Знание
-public	Публичен
-stream	Поток
-hand	Ръка
-mostly	Главно
-shoe	Обувка
-eating	Яме
-flower	Цвете
-grass	Трева
-history	История
-prove	Доказвам
-song	Песен
-affair	Афера
-carefully	Внимателно
-natural	Природен
-thick	Дебел
-manage	Управлявам
-marriage	Брак
-spent	Прекарал
-art	Изкуство
-easily	Лесно
-listening	Слушане
-coffee	Кафе
-lead	Водещ
-meeting	Среща
-size	Размер
-breakfast	Закуска
-frighten	Плаша
-officer	Офицер
-beer	Бира
-ghost	Призрак
-grow	Расте
-heat	Топлина
-serious	Сериозно
-fallen	Паднал
-therefore	Следователно
-twelve	Дванадесет
-falling	Падане
-message	Съобщение
-necessary	Необходимо
-particular	Особен
-stupid	Глупав
-term	Срок
-bent	Склонност
-crying	Плач
-final	Окончателен
-horror	Ужас
-martian	Марсианец
-stair	Стълбищни
-area	Област
-sigh	Въздишка
-calling	Повикване
-somebody	Някой
-throw	Хвърлям
-castle	Замък
-	Замирам
-storm	Буря
-aside	Настрана
-delight	Наслада
-lose	Губя
-match	Мач
-nobody	Никой
-quietly	Тихо
-clown	Клоун
-effect	Ефект
-future	Бъдеще
-object	Обект
-respect	Отношение
-bedroom	Спалня
-christ	Христос
-dry	Сух
-ice	лед
-dance	Танц
-forgotten	Забравен
-lover	Любовник
-occur	Възникне
-result	Резултат
-share	Дял
-suit	Искане (молба)
-surface	Повърхност
-attack	Атака
-bridge	Мост
-ill	Болен
-trip	Пътуване
-hotel	Хотел
-movement	Движение
-rule	Правило
-wake	Събуждам
-record	Рекорд
-snap	Щракване
-twice	Два пъти
-chief	Главен
-parent	Родител
-speed	Скорост
-surely	Сигурно
-catch	Улов
-copy	Копие
-instant	Миг
-noise	Шум
-pant	Въздишам
-ride	Езда
-class	Клас
-coat	Палто
-winter	Зима
-garden	Градина
-rising	Наратващ
-approach	Подход
-bitch	Кучака
-careful	Внимателен
-crack	Пукване
-dangerous	Опасно
-donna	Ще
-duty	Мито
-according	Според
-angry	Ядосан
-wound	Рана
-terror	Терор
-avoid	Избягвам
-complete	Пълен (завършвам)
-forehead	Чело
-meat	Месо
-shire	Графство
-burn	Горя
-uncle	Чичо
-barn	Обор
-cell	Клетка
-occasion	Повод
-perfectly	Перфектно
-welcome	Добре дошъл
-fashion	Мода
-information	Информация
-pair	Двойка
-slightly	Малко (слабо)
-completely	Напълно
-everyone	Всички
-gotta	Трябва
-loot/strong>	Плячка
-peace	Мир
-narrow	Тесен
-passing	Преминаване
-private	Частен
-lift	Вдигам
-scream	Крещя
-bottom	Дъно
-climb	Изкачване
-driver	Шофьор
-refuse	Отказвам
-rise	Покачване
-taste	Вкус
-dying	Умиране
-knowledge	Знания
-opinion	Мнение
-square	Квадрат
-burst	Пръсване
-address	Адрес
-character	Характер
-scene	Сцена
-singing	Пея
-bell	Звънец
-mouse	Мишка
-muscular	Мускулест
-usual	Необичаен
-barren	Непроизводителен
-closer	Затворен
-cup	Чаша
-july	Юли
-entirely	Изцяло
-flying	Летящ
-worst	Най-лошото
-cap	Капак
-cat	Котка
-fortune	Късмет (щастие)
-attentive	Внимателен
-busy	Зает
-appearance	Вид (външност)
-heaven	Рай
-journey	Пътуване
-tale	Приказка
-mom	Мама
-absolutely	Абсолютно
-anybody	Някой
-century	Век
-laughter	Смях
-lit	Пийнал
-base	База
-buy	Купувам
-grace	Елегантност
-pop	Пукот
-asleep	Заспал
-begun	Започнал
-pipe	Тръба
-race	Раса
-relief	Облегчение
-repeat	Повторение
-asking	Попитам
-belch	Оригване
-clearly	Ясно
-prepare	Подготвям
-serve	Служа
-camp	Лагер
-flame	Пламък
-jesus	Исус
-regard	Връзка (отношение)
-softly	Полека
-image	Изображение
-produce	Продукция
-putting	Слагам
-staring	Втренчен
-pip	Пиукам
-latter	Последен
-union	Съюз
-worth	Струващ
-accept	Приемам
-anger	Гняв
-button	Бутон
-double	Двойно
-length	Дължина
+continue - продължавам
+drink - напитка (пия)
+free - свободен (безплатно)
+sky - небе
+mark - марка (знак/белег)
+company - компания (дружество)
+breath - дъх (дишане)
+reply - отговор
+fat - дебел (мазнина)
+park - парк
+rose - розов (роза)
+whose - който
+figure - фигура
+lie - лъжа
+act - действам
+anyway - както и да е
+cross - кръст (напречно)
+master - майстор (господар)
+game - игра
+pocket - джоб
+stone - камък
+strong - силен
+russian - руски
+horse - кон
+baby - бебе
+knee - коляно
+police - полиция
+silence - тишина (мълчание)
+watch - гледам
+afternoon - следобед
+dollar - долар
+eat - ям
+deal - сделка
+fast - бърз
+add - добавям
+itself - себе си
+none - никой
+check - проверка
+sonny - синко
+cheek - буза
+meant - знача (среден)
+push - тласък
+nature - природа (характер)
+fucking - шибан
+strike - удрям
+tear - сълза (късам)
+chapter - глава на книга
+middle - среден
+note - бележка (забележка)
+crazy - луд
+sent - изпратено
+smoke - пуша (дим)
+bird - птица
+raise - повишаване
+promise - обещание
+thousand - хиляда
+hall - зала
+nice - хубав (приятен)
+moving - движещ се
+see - виждам
+whom - кого
+law - право
+meet - среща
+quiet - тих
+sight - зрение
+throat - гърло
+age - възраст
+wide - широк
+desire - желание
+hole - дупка
+certainly - сигурно
+terrible - ужасен
+earth - земя
+kiss - целувка
+lock - заключам
+manner - начин
+party - парти
+movie - филм
+possible - възможен
+kitchen - кухня
+piece - парче
+attention - внимание
+silver - сребърен
+damn - проклет
+folk - народен
+glance - рикоширам (отскачам)
+themselves - себе си
+laugh - смях
+pay - плащам
+fuck - вулг. копулирам
+easy - лесно
+west - запад
+whisper - шепот
+today - днес
+reailly - наистина
+telling - казвам
+shirt - риза
+ahead - напред
+till - докато
+walking - ходене
+edge - ръб
+empty - празен
+quickly - бързо
+north - север
+simply - просто
+tire - уморявам (гума)
+food - храна
+somehow - някак си
+clock - часовник
+nearly - почти
+bag - чанта
+clothes - дрехи
+south - юг
+american - американски
+unite - съединявам
+devour - поглъщам
+pleasure - удоволствие
+river - река
+problem - проблем
+below - долу
+break - почивка (чупя)
+couple - двойка
+report - доклад
+key - ключ
+shape - форма
+within - в предела на
+third - трети
+anyone - някой
+count - броене
+quick - бързо
+seven - седем
+plan - план
+tonight - довечера
+path - път
+yellow - жълт
+drive - път
+huge - огромен
+bank - банка
+control - контрол
+memory - памет (спомен)
+working - работен
+brain - мозък
+goes - отива
+met - срещнах
+professor - професор
+mine - мой
+wearing - носене
+grew - израстнал
+animal - животно
+glad - радостен
+hurry - бързам
+silent - безшумен
+thirty - тридесет
+hardly - едва ли
+mountain - планина
+ball - топка
+thin - тънък
+think - мисля
+direction - посока
+drew - изготвих
+ham - бедро
+important - важно
+led - воден
+grab - загребване
+receive - получавам
+wolf - вълк
+knock - чукам
+slip - хлъзгане
+loud - шумен 9силно)
+brown - кафяв
+eight - осем
+wheel - колело
+beautiful - красив
+begin - започвам
+hate - мразя
+lying - лъжлив
+retrieve - изтегли
+secret - тайна
+wild - див
+color - цвят
+fair - справедлив
+east - изток
+wing - крило
+main - основен
+visit - посещение
+following - следващ
+sharp - рязък
+subject - предмет
+understood - разбран
+lake - езеро
+page - страница
+skin - кожа
+station - гара
+study - проучване
+spring - пролет
+account - сметка
+building - сграда
+desk - бюро
+hung - закачих
+fifty - петдесет
+gold - злато
+neither - нито пък
+send - изпращам
+stick - пръчка
+straight - прав
+darkness - тъмнина
+experience - опит
+bar - бар
+imagine - предполагам
+ship - кораб
+thus - по този начин
+forget - забравям
+nine - девет
+agree - съгласен
+gotten - намерил
+interior - интериор
+rain - дъжд
+block - блок
+fix - фиксирам
+turning - въртене
+warm - топло
+whether - дали
+dinner - вечеря
+somewhere - някъде
+space - простанство
+chest - гръден кош
+write - пиша
+rich - богат
+pause - пауза
+single - единичен
+yard - двор
+further - още
+leave - оставям
+soft - мек
+allow - позволявам
+onto - върху
+pale - блед
+tie - вратовръзка
+beginning - начало
+ought - трябва
+stare - взирам
+doctor - лекар
+sweet - сладък
+grin - хилене
+escape - бягство
+press - преса
+general - общ
+shout - викам
+aware - осведомен
+consider - обмислям
+grey - сив
+card - карта
+cloud - облак
+spot - място (петно)
+situation - положение
+board - дъска
+clean - чист
+truth - истина
+explain - обяснявам
+lower - по-ниско
+machine - машина
+post - стълб
+view - изглед
+project - проект
+bottle - бутилка
+broke - разбит
+position - позиция
+sea - море
+field - област
+fresh - прясно
+join - свързвам
+worse - по-лошо
+fly - летя
+offer - оферта
+rush - прилив
+safe - безпоасен
+jump - скок
+smiling - усмихат
+track - следа
+bone - кост
+murder - убийство
+creature - създание
+growing - нараастващ
+monster - чудовище
+system - система
+beat - бит
+funny - забавен
+hospital - болница
+play - игра
+service - обслужване
+common - общ
+giving - давам
+sudden - внезапен
+usually - обикновенно
+settle - заселвам се
+slow - бавен
+threw - хвърли
+train - влак
+unless - освен ако
+ass - задник
+beneath - под
+discover - откривам
+tomorrow - утре
+bear - нося (мечка)
+cool - хладен
+alive - жив
+crowd - тълпа
+quarter - тримесечие
+written - писмен
+distance - разстояние
+laid - разстояние
+hat - шапка
+trust - доверие
+beauty - красота
+tongue - език
+arrive - пристигам
+center - център
+drove - изпъди
+dare - смея
+merry - весел
+moon - луна
+circle - кръг
+leader - ръководител
+conversation - разговор
+expression - изразяване
+guard - охрана
+truck - камион
+effort - усилие
+fight - борба
+reading - четене
+group - група
+mention - споменавам
+forth - напред
+haven - убежище
+strength - сила
+gate - порта
+radio - радио
+sick - болен
+mad - луд
+writing - писане
+library - библиотека
+music - музика
+paid - платен
+immediately - веднага
+tall - висок
+action - действие
+evil - лош (зъл)
+wet - мокър
+concern - загриженост
+dad - татко
+especially - особено
+purpose - предназначение
+enemy - враг
+special - специален
+boss - шеф
+likely - вероятно
+soul - душа
+speaking - говорещ
+spirit - дух
+boat - лодка
+cigarette - цигара
+faint - слаб
+perfect - перфектен
+enjoy - наслада
+flat - плосък
+blow - духам
+mina - мина
+forty - четирдесет
+simple - прост
+dozen - дузина
+hello - здравейте
+self - същност
+everybody - всички
+flash - светкавица
+gain - печалба
+shock - шок
+charge - зареждане
+danger - опасност
+impossible - невъзможно
+hi - здрасти
+million - милион
+pack - пакет
+thoracic - торакален
+knowing - знание
+public - публичен
+stream - поток
+hand - ръка
+mostly - главно
+shoe - обувка
+eating - яме
+flower - цвете
+grass - трева
+history - история
+prove - доказвам
+song - песен
+affair - афера
+carefully - внимателно
+natural - природен
+thick - дебел
+manage - управлявам
+marriage - брак
+spent - прекарал
+art - изкуство
+easily - лесно
+listening - слушане
+coffee - кафе
+lead - водещ
+meeting - среща
+size - размер
+breakfast - закуска
+frighten - плаша
+officer - офицер
+beer - бира
+ghost - призрак
+grow - расте
+heat - топлина
+serious - сериозно
+fallen - паднал
+therefore - следователно
+twelve - дванадесет
+falling - падане
+message - съобщение
+necessary - необходимо
+particular - особен
+stupid - глупав
+term - срок
+bent - склонност
+crying - плач
+final - окончателен
+horror - ужас
+martian - марсианец
+stair - стълбищни
+area - област
+sigh - въздишка
+calling - повикване
+somebody - някой
+throw - хвърлям
+castle - замък
+ - замирам
+storm - буря
+aside - настрана
+delight - наслада
+lose - губя
+match - мач
+nobody - никой
+quietly - тихо
+clown - клоун
+effect - ефект
+future - бъдеще
+object - обект
+respect - отношение
+bedroom - спалня
+christ - христос
+dry - сух
+ice - лед
+dance - танц
+forgotten - забравен
+lover - любовник
+occur - възникне
+result - резултат
+share - дял
+suit - искане (молба)
+surface - повърхност
+attack - атака
+bridge - мост
+ill - болен
+trip - пътуване
+hotel - хотел
+movement - движение
+rule - правило
+wake - събуждам
+record - рекорд
+snap - щракване
+twice - два пъти
+chief - главен
+parent - родител
+speed - скорост
+surely - сигурно
+catch - улов
+copy - копие
+instant - миг
+noise - шум
+pant - въздишам
+ride - езда
+class - клас
+coat - палто
+winter - зима
+garden - градина
+rising - наратващ
+approach - подход
+bitch - кучака
+careful - внимателен
+crack - пукване
+dangerous - опасно
+donna - ще
+duty - мито
+according - според
+angry - ядосан
+wound - рана
+terror - терор
+avoid - избягвам
+complete - пълен (завършвам)
+forehead - чело
+meat - месо
+shire - графство
+burn - горя
+uncle - чичо
+barn - обор
+cell - клетка
+occasion - повод
+perfectly - перфектно
+welcome - добре дошъл
+fashion - мода
+information - информация
+pair - двойка
+slightly - малко (слабо)
+completely - напълно
+everyone - всички
+gotta - трябва
+loot/strong> - плячка
+peace - мир
+narrow - тесен
+passing - преминаване
+private - частен
+lift - вдигам
+scream - крещя
+bottom - дъно
+climb - изкачване
+driver - шофьор
+refuse - отказвам
+rise - покачване
+taste - вкус
+dying - умиране
+knowledge - знания
+opinion - мнение
+square - квадрат
+burst - пръсване
+address - адрес
+character - характер
+scene - сцена
+singing - пея
+bell - звънец
+mouse - мишка
+muscular - мускулест
+usual - необичаен
+barren - непроизводителен
+closer - затворен
+cup - чаша
+july - юли
+entirely - изцяло
+flying - летящ
+worst - най-лошото
+cap - капак
+cat - котка
+fortune - късмет (щастие)
+attentive - внимателен
+busy - зает
+appearance - вид (външност)
+heaven - рай
+journey - пътуване
+tale - приказка
+mom - мама
+absolutely - абсолютно
+anybody - някой
+century - век
+laughter - смях
+lit - пийнал
+base - база
+buy - купувам
+grace - елегантност
+pop - пукот
+asleep - заспал
+begun - започнал
+pipe - тръба
+race - раса
+relief - облегчение
+repeat - повторение
+asking - попитам
+belch - оригване
+clearly - ясно
+prepare - подготвям
+serve - служа
+camp - лагер
+flame - пламък
+jesus - исус
+regard - връзка (отношение)
+softly - полека
+image - изображение
+produce - продукция
+putting - слагам
+staring - втренчен
+pip - пиукам
+latter - последен
+union - съюз
+worth - струващ
+accept - приемам
+anger - гняв
+button - бутон
+double - двойно
+length - дължина
 
-hanging	Висящ
-spite	Злоба
-attempt	Опит (проба)
-tape	Лента
-telephone	Телефон
-wrote	Писа
-alarm	Аларма (тревога)
-bare	Гол
-bet	Залагане
-built	Построен
-club	Клуб
-drawn	Изготвен
-fighter	Боец
-fool	Глупак
-observe	Наблюдавам (забелязвам)
-suggest	Предлагам
-daddy	Татко
-individual	Индивидуален
-lunch	Обяд
-express	Изразявам
-lane	Платно
-plain	Обикновен
-ray	Лъч
-replace	Поставям (връщам на място)
-undersell	По-евтин от
-breast	Гърди
-dirty	Мръсен
-wonderful	Чудесен
-pound	Лира
-branch	Клон
-comfort	Комфорт
-driving	Шофиране
-personal	Личен
-leading	Водещ
-nervous	Нервен
-plant	Растение
-various	Различни
-aunt	Леля
-bathroom	Баня
-burning	Изгаряне
-captain	Капитан
-kick	Ритник
-roof	Покрив
-stride	Крача
-tip	Връх
-agent	Агент
-stuck	Заби
-tail	Опашка
-excuse	Извинение
-hearing	Слух
-joke	Шега
-opening	Отвор
-sake	Саке
-sleeping	Спя
-fit	Годен
-flesh	Плът
-fun	Шега
-struggle	Борба
-tight	Стегнат
-tone	Тон
-grown	Възрастен
-knife	Нож
-march	Март
-spread	Разпространение
-stranger	Непознат
-bush	Храст
-load	Натоварване
-odd	Нечетен
-recognize	Разпознавам
-shoot	Стрелям
-grip	Дръжка
-mirror	Огледало
-cockpit	Арена за борби
-fifteen	Петнадесет
-inch	Инч
-sing	Пея
-stage	Етап
-stretch	Разтягане
-weight	Тегло
-bower	Беседка
-broad	Широк
-mental	Умствен
-rate	Скорост
-awhile	Известно време
-bow	Лък
-church	Църква
-court	Корт
-destroy	Унищожи
-handle	Дръжка
-lean	Слаб
-orange	Оранжев
-belong	Принадлежа
-spend	Прекарвам
-difficult	Труден
-dust	Прах
-fail	Провалям се
-judge	Съдия
-shake	Разклащане
-angle	Ъгъл
-buddy	Приятелю
-circumstance	Обстоятелство
-convince	Убеждавам
-fish	Риба
-level	Ниво, равнище
-remove	Премахвам, изваждам
-weak	Слаб, отпаднал
-cop	Полицай
-jacket	Яке
-servant	Слуга
-sheet	Лист
-shop	Магазин
-weather	Време
-afterward	После, впоследствие
-powerful	Мощен
-queen	Кралица
-stomach	Стомах
-belt	Колан
-event	Събитие, случай
-keeping	Съхранение, запазване
-lovely	Прекрасен
-trick	Трик, хитрост
-use	Употреба
-yell	Крещя
-accident	Злополука
-chain	Верига
-local	Местен
-starting	Изходен
-command	Команда
-gently	Нежно
-loose	Свободен, хлабав
-porch	Веранда, чардак
-showing	Показване
-frank	Откровен
-hip	Бедро
-steady	Стабилен
-wave	Вълна
-breathing	Дишане
-detail	Детайл
-forest	Гора
-gentlemen	Господа
-physical	Физически
-barely	Едва
-beach	Плаж
-camber	Изпъкналост
-choice	избор
-college	Колеж
-fancy	Фантазия
-forgot	Забравих
-gather	Събирам
-presence	Присъствие, наличие
-quality	Качество
-desert	Пустиня
-fist	Юмрук
-pit	Яма
-village	Село
-wore	Носеше
-trace	Следа
-wear	Нося, облекло
-curious	Любопитен
-eleven	Единадесет
-female	Женски
-article	Статия
-blind	Сляп
-date	Дата
-mistake	Грешка
-success	Успех
-suspect	Заподозрян
-cent	Цент
-beast	Звяр
-bound	Граница
-bury	Заравям
-disappeared	Изчезнал
-gas	Газ
-older	По-стар
-rolling	Търкаляне
-born	Роден
-interesting	Интересен
-pleasant	Приятен
-possess	Притежавам
-bought	Купих
-directly	Пряко
-luck	Късмет
-motion	Движение
-travel	Пътуване
-calm	Спокосйтвие
-drinking	Пиене
-exterior	Външност
-guest	Гост
-sad	Тъжен
-slept	Спал
-sunday	Неделя
-anymore	Повече
-farther	По нататък
-harker	Слушам, ослушвам се
-jaw	Челюст
-palm	Длан
-suffer	Страдам
-treat	Лечение
-america	Америка
-companion	Другар
-flew	Отлетя
-pine	Бор
-pour	Изливам
-president	Президент
-team	Отбор
-wise	Мъдър
-wrist	Китка
-yesterday	Вчера
-youth	Младежта
-august	Август
-badly	Зле
-contact	Контакт
-egg	Яйце
-lawyer	Адвокат
-loss	Загуба
-manager	Управител
-mist	Мъглявина
-writer	Писател
-apartment	Апартамент
-cast	Хвърлям
-draw	Изтеглям
-driven	Задвижване
-pile	Купчина
-september	Септември
-weapon	Оръжие
-affection	Привързаност
-drift	Направление, посока
-grave	Гроб
-haze	Мътност
-lawn	Морава
-soldier	Войник
-spoken	Говорим
-supper	Вечеря
-band	Лента, банда
-comment	Коментар
-former	Бивш
-foundation	Фундамент
-lucky	Късметлия
-merely	Просто
-october	Октомври
-valley	Долина
-wash	Измиване
-accros	През
-buck	Долар
-content	Съдържание
-difference	Разлика
-fighting	Борба
-heel	Пета
-paint	Боя
-plate	Плоча
-driveway	Път
-nail	Гвоздей
-official	Официален
-gorgeous	Разкошен
-awake	Буден
-carriage	Превоз
-claim	Претенция
-fault	Вина
-gentleman	Джентълмен
-practice	Практика
-remark	Забележка
-roar	Рев
-connection	Връзка
-crime	Престъпление
-greater	По-голяма
-hidden	Скрит
-newspaper	Вестник
-pulling	Дърпа
-spring	Пружина
-assure	Уверявам
-awful	Ужасен
-backward	Назад
-belly	Корем
-county	Окръг
-float	Плувка
-french	Френски
-handsome	Красив
-opportunity	Възможност
-saturday	Събота
-screen	Екран
-ate	Изядох
-flight	Полет
-health	Здраве
-mask	Маска
-plastic	Пластмаса
-plenty	Много
-remind	Напомням
-sweat	Пот
-vision	Зрение
-wonder	Чудя се
-distant	Далечен
-drain	Отцеди
-list	Списък
-pure	Чист
-utter	Краен
-bunch	Китка
-crawl	Пълзене
-dull	Тъп
-fold	Гънка
-jingle	Дрънча, звънтя
-slam	Шлем
-energy	Енергия
-feature	Особеност
-happening	Случва
-horrible	Ужасен
-member	Член
-swung	Замахна
-christmas	Коледа
-condition	Състояние
-drawing	Чертеж
-favorite	Любим
-garage	Гараж
-meaning	Значение
-quit	Напускам, прекъсвам
-series	Серия
-cerebral	Целебрален
-drunk	Пиян
-farmer	Фермер
-happiness	Щастие
-rear	Заден
-search	Търсене
-thrown	Хвърлен
-closet	Шкаф
-determine	Определям
-missing	Липсващ
-oil	Масло
-proper	Надежден
-charity	Благотворителност
-fourth	Четвърти
-honey	Забравих
-jerk	Идиот
-lamp	Лампа
-mix	Смесвам
-prison	Затвор
-puzzle	Пъзел
-ruin	Разруха
-smooth	Гладък
-excellent	Отличен
-finding	Намиране
-glow	Светя
-hungry	Гладен
-iron	Желязо
-particularly	Особено
-print	Печат
-shaking	Клатене
-shift	Промяна
-advance	Напредък
-bother	Безпокоя
-chamber	Камера
-habit	Навик
-intend	Възнамерявам
-lap	Скут
-patch	Кръпка
-society	Общество
-speech	Реч
-bite	Хапя
-english	Английски
-language	Език
-sixty	Шейсет
-support	Поддръжка
-arrange	Подреждам
-battle	Битка
-bore	Досадник
-tiny	Мъничък
-ancient	Древен
-beating	Побой
-dancing	Танци
-due	Дължимо
-panic	Паника
-passage	Пасаж
-perlmutter	Периметър
-pool	Билярд
-pray	Моля
-security	Сигурност
-thunder	Гръм
-trail	Пътека
-wrap	Обвивка
-advantage	Предимство
-degree	Степен
-greatest	Най-голям
-island	Остров
-italian	Италиански
-june	Юни
-nigger	Негър
-swept	Пометен
-anxious	Неспокоен
-flow	Течение
-mass	Маса
-muscle	Мускул
-slope	Наклон
-wipe	Изтриване
-younger	Млад
-bloody	Кървав
-computer	Компютър
-demand	Търсене
-excite	Възбуждам
-hang	Вися
-upstairs	Най-горният етаж
-dim	Скептичен
-gasp	Издихание
-madam	Мадам
-relation	Връзка
-satisfy	Задоволявам
-scarcely	Едва ли
-science	Наука
-wanna	Искам
-witness	Свидетел
-cab	Кабина
-drag	Влача
-fence	Ограда
-row	Ред
-tea	Чай
-win	Печалба
-anywhere	Навсякъде
-army	Армия
-canal	Канал
-describe	Описвам
-forever	Завинаги
-increase	Увеличаване
-otherwise	В противен случай
-period	Период
-possibly	Възможно
-rag	Парцал
-rapidly	Бързо
-snarl	Ръмжене
-strike	Стачка
-twist	Извъртане
-apart	Отделно
-choose	Избирам
-normal	Нормален
-partner	Партньор
-seldom	Рядко
-soviet	Съветски
-string	Низ
-strip	Лента
-sword	Меч
-wanting	Недостатъчен
-wire	Тел
-cease	Спиране
-corridor	Коридор
-golden	Златист
-lad	Момък
-meal	Брашно
-pride	Гордост
-shade	Сянка
-shore	Бряг
-apparently	Очевидно
-cousin	Братовчед
-direct	Директен
-doorway	Вход
-engine	Двигател
-friday	Петък
-jeans	Дънки
-owner	Собственик
-pink	Розов
-price	Цена
-attend	Посещавам
-chin	Брада
-nerve	Нерв
-rider	Ездач
-toss	Хвърляне на чоп
-boot	Ботуш
-cost	Цена
-favor	Полза
-fontane	Лице
-naked	Гол
-reader	Четец
-social	Социален
-tower	Кула
-upper	Горен
-blew	Взривиха
-brief	Кратък
-prefer	Предпочитам
-teacher	Учител
-toilet	Тоалетна
-bolt	Болт
-breaking	Скъсване
-contain	Съдържа
-dawn	Разсъмване
-devil	Дявол
-ease	лекота
-entire	Цял
-familiar	Запознат
-fully	Напълно
-include	Включва
-magic	Магия
-root	Корен
-shed	Навес
-sled	Шейна
-student	Студент
-thumb	Палец
-adventure	Приключение
-breathe	Дишам
-develop	Развивам
-file	Досие
-including	Включително
-joy	Радост
-november	Ноември
-startle	Стряскам
-congress	Конгрес
-famous	Известен
-major	Главен
-naturally	Естествено
-wine	Вино
-glove	Ръкавица
-planet	Планета
-possibility	Възможност
-proud	Горд
-sensation	Сензация
-swear	Заклевам
-switch	Прекъсвач
-taught	Преподава
-trembling	Трепет
-advice	Съвет
-bless	Благославям
-crash	Катастрофа
-drug	Лекарство
-gift	Подарък
-mall	Търговски център
-aid	Подкрепа
-author	Автор
-create	Създавам
-diary	Дневник
-dining	Трапезария
-grinning	Ухилен
-instinct	Инстинкт
-score	Резултат
-spider	Паяк
-whistle	Свирка
-admit	Представям
-blast	Взрив
-brow	Вежда
-everywhere	Навсякъде
-exit	Изход
-farm	Ферма
-giant	Гигант
-higher	По-висок
-link	Връзка
-magazine	Списание
-novel	Роман
-passion	Страст
-presently	Понастоящем
-proceed	Процедира
-sink	Мивка
-toot	Изсвирване с клаксон
-woke	Събудих
-carrying	Носене
-cock	Петел
-department	Отдел
-goddam	Проклет
-require	Изисква
-thrust	Тласък
-whip	Камшик
-approaching	Приближава
-authority	Власт
-drown	Давя
-exclaim	Възкликвам
-flush	Промиване
-influence	Влияние
-insist	Настоявам
-patient	Пациент
-per	На
-bullet	Куршум
-chicken	Пиле
-counter	Брояч
-engage	Ангажирам
-hide	Крия
-killing	Убиване
-point	Точка
-elbow	Лакът
-ourselves	Себе си
-pony	Пони
-rage	Ярост
-shining	Блестящ
-somewhat	До известна степен
-stir	Раздвижване
-test	Тест
-thigh	Бедро
-tunnel	Тунел
-wedding	Сватба
-avenue	Път
-bike	Велосипед
-cylinder	Цилиндър
-opposite	Срещу
-peculiar	Странен
-sunset	Залез
-bread	Хляб
-gut	Инстиктивен
-pity	Жал
-prevent	Предотвратяване
-sank	Потъва
-succeed	Успявам
-temper	Нрав
-tough	Труден
-unable	Неспособен
-development	Развитие
-dwarf	Джудже
-entrance	Вход
-evidently	Очевидно
-lee	Завет
+hanging - висящ
+spite - злоба
+attempt - опит (проба)
+tape - лента
+telephone - телефон
+wrote - писа
+alarm - аларма (тревога)
+bare - гол
+bet - залагане
+built - построен
+club - клуб
+drawn - изготвен
+fighter - боец
+fool - глупак
+observe - наблюдавам (забелязвам)
+suggest - предлагам
+daddy - татко
+individual - индивидуален
+lunch - обяд
+express - изразявам
+lane - платно
+plain - обикновен
+ray - лъч
+replace - поставям (връщам на място)
+undersell - по-евтин от
+breast - гърди
+dirty - мръсен
+wonderful - чудесен
+pound - лира
+branch - клон
+comfort - комфорт
+driving - шофиране
+personal - личен
+leading - водещ
+nervous - нервен
+plant - растение
+various - различни
+aunt - леля
+bathroom - баня
+burning - изгаряне
+captain - капитан
+kick - ритник
+roof - покрив
+stride - крача
+tip - връх
+agent - агент
+stuck - заби
+tail - опашка
+excuse - извинение
+hearing - слух
+joke - шега
+opening - отвор
+sake - саке
+sleeping - спя
+fit - годен
+flesh - плът
+fun - шега
+struggle - борба
+tight - стегнат
+tone - тон
+grown - възрастен
+knife - нож
+march - март
+spread - разпространение
+stranger - непознат
+bush - храст
+load - натоварване
+odd - нечетен
+recognize - разпознавам
+shoot - стрелям
+grip - дръжка
+mirror - огледало
+cockpit - арена за борби
+fifteen - петнадесет
+inch - инч
+sing - пея
+stage - етап
+stretch - разтягане
+weight - тегло
+bower - беседка
+broad - широк
+mental - умствен
+rate - скорост
+awhile - известно време
+bow - лък
+church - църква
+court - корт
+destroy - унищожи
+handle - дръжка
+lean - слаб
+orange - оранжев
+belong - принадлежа
+spend - прекарвам
+difficult - труден
+dust - прах
+fail - провалям се
+judge - съдия
+shake - разклащане
+angle - ъгъл
+buddy - приятелю
+circumstance - обстоятелство
+convince - убеждавам
+fish - риба
+level - ниво, равнище
+remove - премахвам, изваждам
+weak - слаб, отпаднал
+cop - полицай
+jacket - яке
+servant - слуга
+sheet - лист
+shop - магазин
+weather - време
+afterward - после, впоследствие
+powerful - мощен
+queen - кралица
+stomach - стомах
+belt - колан
+event - събитие, случай
+keeping - съхранение, запазване
+lovely - прекрасен
+trick - трик, хитрост
+use - употреба
+yell - крещя
+accident - злополука
+chain - верига
+local - местен
+starting - изходен
+command - команда
+gently - нежно
+loose - свободен, хлабав
+porch - веранда, чардак
+showing - показване
+frank - откровен
+hip - бедро
+steady - стабилен
+wave - вълна
+breathing - дишане
+detail - детайл
+forest - гора
+gentlemen - господа
+physical - физически
+barely - едва
+beach - плаж
+camber - изпъкналост
+choice - избор
+college - колеж
+fancy - фантазия
+forgot - забравих
+gather - събирам
+presence - присъствие, наличие
+quality - качество
+desert - пустиня
+fist - юмрук
+pit - яма
+village - село
+wore - носеше
+trace - следа
+wear - нося, облекло
+curious - любопитен
+eleven - единадесет
+female - женски
+article - статия
+blind - сляп
+date - дата
+mistake - грешка
+success - успех
+suspect - заподозрян
+cent - цент
+beast - звяр
+bound - граница
+bury - заравям
+disappeared - изчезнал
+gas - газ
+older - по-стар
+rolling - търкаляне
+born - роден
+interesting - интересен
+pleasant - приятен
+possess - притежавам
+bought - купих
+directly - пряко
+luck - късмет
+motion - движение
+travel - пътуване
+calm - спокосйтвие
+drinking - пиене
+exterior - външност
+guest - гост
+sad - тъжен
+slept - спал
+sunday - неделя
+anymore - повече
+farther - по нататък
+harker - слушам, ослушвам се
+jaw - челюст
+palm - длан
+suffer - страдам
+treat - лечение
+america - америка
+companion - другар
+flew - отлетя
+pine - бор
+pour - изливам
+president - президент
+team - отбор
+wise - мъдър
+wrist - китка
+yesterday - вчера
+youth - младежта
+august - август
+badly - зле
+contact - контакт
+egg - яйце
+lawyer - адвокат
+loss - загуба
+manager - управител
+mist - мъглявина
+writer - писател
+apartment - апартамент
+cast - хвърлям
+draw - изтеглям
+driven - задвижване
+pile - купчина
+september - септември
+weapon - оръжие
+affection - привързаност
+drift - направление, посока
+grave - гроб
+haze - мътност
+lawn - морава
+soldier - войник
+spoken - говорим
+supper - вечеря
+band - лента, банда
+comment - коментар
+former - бивш
+foundation - фундамент
+lucky - късметлия
+merely - просто
+october - октомври
+valley - долина
+wash - измиване
+accros - през
+buck - долар
+content - съдържание
+difference - разлика
+fighting - борба
+heel - пета
+paint - боя
+plate - плоча
+driveway - път
+nail - гвоздей
+official - официален
+gorgeous - разкошен
+awake - буден
+carriage - превоз
+claim - претенция
+fault - вина
+gentleman - джентълмен
+practice - практика
+remark - забележка
+roar - рев
+connection - връзка
+crime - престъпление
+greater - по-голяма
+hidden - скрит
+newspaper - вестник
+pulling - дърпа
+spring - пружина
+assure - уверявам
+awful - ужасен
+backward - назад
+belly - корем
+county - окръг
+float - плувка
+french - френски
+handsome - красив
+opportunity - възможност
+saturday - събота
+screen - екран
+ate - изядох
+flight - полет
+health - здраве
+mask - маска
+plastic - пластмаса
+plenty - много
+remind - напомням
+sweat - пот
+vision - зрение
+wonder - чудя се
+distant - далечен
+drain - отцеди
+list - списък
+pure - чист
+utter - краен
+bunch - китка
+crawl - пълзене
+dull - тъп
+fold - гънка
+jingle - дрънча, звънтя
+slam - шлем
+energy - енергия
+feature - особеност
+happening - случва
+horrible - ужасен
+member - член
+swung - замахна
+christmas - коледа
+condition - състояние
+drawing - чертеж
+favorite - любим
+garage - гараж
+meaning - значение
+quit - напускам, прекъсвам
+series - серия
+cerebral - целебрален
+drunk - пиян
+farmer - фермер
+happiness - щастие
+rear - заден
+search - търсене
+thrown - хвърлен
+closet - шкаф
+determine - определям
+missing - липсващ
+oil - масло
+proper - надежден
+charity - благотворителност
+fourth - четвърти
+honey - забравих
+jerk - идиот
+lamp - лампа
+mix - смесвам
+prison - затвор
+puzzle - пъзел
+ruin - разруха
+smooth - гладък
+excellent - отличен
+finding - намиране
+glow - светя
+hungry - гладен
+iron - желязо
+particularly - особено
+print - печат
+shaking - клатене
+shift - промяна
+advance - напредък
+bother - безпокоя
+chamber - камера
+habit - навик
+intend - възнамерявам
+lap - скут
+patch - кръпка
+society - общество
+speech - реч
+bite - хапя
+english - английски
+language - език
+sixty - шейсет
+support - поддръжка
+arrange - подреждам
+battle - битка
+bore - досадник
+tiny - мъничък
+ancient - древен
+beating - побой
+dancing - танци
+due - дължимо
+panic - паника
+passage - пасаж
+perlmutter - периметър
+pool - билярд
+pray - моля
+security - сигурност
+thunder - гръм
+trail - пътека
+wrap - обвивка
+advantage - предимство
+degree - степен
+greatest - най-голям
+island - остров
+italian - италиански
+june - юни
+nigger - негър
+swept - пометен
+anxious - неспокоен
+flow - течение
+mass - маса
+muscle - мускул
+slope - наклон
+wipe - изтриване
+younger - млад
+bloody - кървав
+computer - компютър
+demand - търсене
+excite - възбуждам
+hang - вися
+upstairs - най-горният етаж
+dim - скептичен
+gasp - издихание
+madam - мадам
+relation - връзка
+satisfy - задоволявам
+scarcely - едва ли
+science - наука
+wanna - искам
+witness - свидетел
+cab - кабина
+drag - влача
+fence - ограда
+row - ред
+tea - чай
+win - печалба
+anywhere - навсякъде
+army - армия
+canal - канал
+describe - описвам
+forever - завинаги
+increase - увеличаване
+otherwise - в противен случай
+period - период
+possibly - възможно
+rag - парцал
+rapidly - бързо
+snarl - ръмжене
+strike - стачка
+twist - извъртане
+apart - отделно
+choose - избирам
+normal - нормален
+partner - партньор
+seldom - рядко
+soviet - съветски
+string - низ
+strip - лента
+sword - меч
+wanting - недостатъчен
+wire - тел
+cease - спиране
+corridor - коридор
+golden - златист
+lad - момък
+meal - брашно
+pride - гордост
+shade - сянка
+shore - бряг
+apparently - очевидно
+cousin - братовчед
+direct - директен
+doorway - вход
+engine - двигател
+friday - петък
+jeans - дънки
+owner - собственик
+pink - розов
+price - цена
+attend - посещавам
+chin - брада
+nerve - нерв
+rider - ездач
+toss - хвърляне на чоп
+boot - ботуш
+cost - цена
+favor - полза
+fontane - лице
+naked - гол
+reader - четец
+social - социален
+tower - кула
+upper - горен
+blew - взривиха
+brief - кратък
+prefer - предпочитам
+teacher - учител
+toilet - тоалетна
+bolt - болт
+breaking - скъсване
+contain - съдържа
+dawn - разсъмване
+devil - дявол
+ease - лекота
+entire - цял
+familiar - запознат
+fully - напълно
+include - включва
+magic - магия
+root - корен
+shed - навес
+sled - шейна
+student - студент
+thumb - палец
+adventure - приключение
+breathe - дишам
+develop - развивам
+file - досие
+including - включително
+joy - радост
+november - ноември
+startle - стряскам
+congress - конгрес
+famous - известен
+major - главен
+naturally - естествено
+wine - вино
+glove - ръкавица
+planet - планета
+possibility - възможност
+proud - горд
+sensation - сензация
+swear - заклевам
+switch - прекъсвач
+taught - преподава
+trembling - трепет
+advice - съвет
+bless - благославям
+crash - катастрофа
+drug - лекарство
+gift - подарък
+mall - търговски център
+aid - подкрепа
+author - автор
+create - създавам
+diary - дневник
+dining - трапезария
+grinning - ухилен
+instinct - инстинкт
+score - резултат
+spider - паяк
+whistle - свирка
+admit - представям
+blast - взрив
+brow - вежда
+everywhere - навсякъде
+exit - изход
+farm - ферма
+giant - гигант
+higher - по-висок
+link - връзка
+magazine - списание
+novel - роман
+passion - страст
+presently - понастоящем
+proceed - процедира
+sink - мивка
+toot - изсвирване с клаксон
+woke - събудих
+carrying - носене
+cock - петел
+department - отдел
+goddam - проклет
+require - изисква
+thrust - тласък
+whip - камшик
+approaching - приближава
+authority - власт
+drown - давя
+exclaim - възкликвам
+flush - промиване
+influence - влияние
+insist - настоявам
+patient - пациент
+per - на
+bullet - куршум
+chicken - пиле
+counter - брояч
+engage - ангажирам
+hide - крия
+killing - убиване
+point - точка
+elbow - лакът
+ourselves - себе си
+pony - пони
+rage - ярост
+shining - блестящ
+somewhat - до известна степен
+stir - раздвижване
+test - тест
+thigh - бедро
+tunnel - тунел
+wedding - сватба
+avenue - път
+bike - велосипед
+cylinder - цилиндър
+opposite - срещу
+peculiar - странен
+sunset - залез
+bread - хляб
+gut - инстиктивен
+pity - жал
+prevent - предотвратяване
+sank - потъва
+succeed - успявам
+temper - нрав
+tough - труден
+unable - неспособен
+development - развитие
+dwarf - джудже
+entrance - вход
+evidently - очевидно
+lee - завет
 
-nightmare	Кошмар
-vanish	Изчезвам
-willing	Склонен
-bitter	Горчив
-eat	Ям
-nurse	Медицинска сестра
-photograph	Снимка
-spell	Заклинание
-warning	Предупреждение
-balloon	Балон
-becoming	Превръща
-beg	Помолвам
-birthday	Рожден ден
-blame	Вина
-embrace	Прегръдка
-emotion	Емоция
-hesitate	Поколебае
-lack	Липса
-leaning	Навеждане
-limit	Граница
-section	Раздел
-waver	Треперя
-detective	Детектив
-dump	Бунище
-early	Разно
-examine	Проучване
-hiding	Укриване
-national	Национален
-ordinary	Обикновен
-rank	Ранг
-relieve	Облекчаване
-scout	Разузнавач
-shower	Душ
-supply	Предлагане
-toy	Играчка
-beam	Лъч
-faster	По-бързо
-government	Правителство
-instance	Инстанция
-lightning	Мълния
-midnight	Полунощ
-pace	Темпо
-shooting	Стрелба
-stroke	Удар
-bigger	По-голям
-caloric	Калоричен
-grand	Грандиозен
-halfway	На половината път
-horn	Рог
-milk	Мляко
-original	Оригинал
-rough	Груб
-sidewalk	Тротоар
-source	Източник
-afford	Позволявам
-comfortable	Комфортен
-courage	Смелост
-deeply	Дълбоко
-dirt	Мръсотия
-explode	Експлодирам
-gesture	Жест
-growl	Ръмжене
-medicine	Медицина
-noon	Обед
-provide	Предоставям
-safety	Безопасност
-secure	Сигурен
-steadily	Постоянно
-strain	Деформация
-ticket	Билет
-warn	Предупреждавам
-waste	Отпадъци
-weird	Странен
-apply	Прилагам
-bastard	Копеле
-harm	Вреда
-helpless	Безпомощен
-matt	Матов
-popular	Популярен
-release	Изспускане
-rope	Въже
-seize	Конфискува
-thou	Ти
-amuse	Разсмивам
-bat	Прилеп
-central	Централен
-continuing	Продължава
-curve	Крива
-hook	Кука
-imperial	Имперски
-leaped	Заигра
-picking	Бране
-rid	Избавям
-sport	Спорт
-style	Стила
-unknown	Неизвестен
-wander	Скитам
-wooden	Дървен
-cellar	Изба
-exist	Съществувам
-glimpse	Бегъл поглед
-halt	Застой
-height	Височина
-lonely	Самотен
-lose	Загуба
-mighty	Могъщ
-painful	Болезнен
-steel	Стомана
-ugly	Грозен
-version	Версия
-whenever	Всеки път когато
-affect	Засегне
-bye	Чао
-confidence	Доверие
-drawer	Чекмедже
-eventually	Евентуално
-firm	Твърд
-hollow	Кух
-hunting	Лов
-praise	Похвала
-season	Сезон
-soon	Скоро
-split	Раздвояване
-aspirations	Стремеж
-balance	Баланс
-bus	Автобус
-credit	Кредит
-deadly	Смъртоносен
-exercise	Упражнение
-flood	Наводнение
-gleam	Блестя
-indian	Индийски
-letting	Отдаване под наем
-player	Плейър
-prisoner	Затворник
-relax	Отпусни се
-rub	Трия
-smoking	Пушене
-thud	Тупване
-yank	Янки
-border	Граница
-distress	Бедствие
-dreadful	Страшен
-extra	Екстра
-extremely	Извънредно
-federal	Федерален
-footnote	Бележка под линия
-fought	Борил
-frame	Кадър
-grief	Скръб
-queer	Ексентричен
-shame	Срам
-shelf	Рафт
-skull	Череп
-stain	Петно
-stronger	По-силен
-visitor	Посетител
-wife	Съпруга
-yankee	Янки
-adult	Възрастен
-attach	Прикрепям
-fate	Съдба
-ring	Пръстен
-labor	Труд
-rusty	Ръждясал
-sand	Пясък
-shown	Посочен
-skill	Умение
-urge	Призовавам
-successful	Успешно
-closely	Тясно
-curiosity	Любопитство
-dislike	Неприязън
-drink	Питие
-frozen	Замръзнал
-heavily	Силно
-hood	Качулка
-impression	Импресия
-morrow	Утрешен ден
-mystery	Мистерия
-protect	Предпазвам
-purse	Предпазвам
-sentence	Изречение
-tap	Кран
-torn	Разкъсан
-understanding	Разбирателство
-altogether	Напълно
-baseball	Бейзбол
-bowl	Купа
-candy	Бонбони
-current	Течение
-despite	Въпреки
-dish	Ястие
-evidence	Доказателства
-honour	Чест
-interrupt	Прекъсвам
-mount	Стойка
-mutter	Мърморене
-operation	Операция
-princess	Принцеса
-pump	Помпа
-reality	Реалност
-riding	Езда
-satisfaction	Удволетворение
-smart	Умен
-spare	Свободен
-throw	Хвърлям
-totally	Напълно
-vacation	Ваканция
-acquaintance	Запознанство
-cake	Торта
-chase	Гонитба
-click	Кликане
-downstairs	На долния етаж
-education	Образование
-fifth	Пети
-grunt	Мърморене
-population	Население
-seventy	Седемдесет
-slight	Лек
-swallow	Лястовица
-traffic	Трафик
-briefly	На кратко
-connect	Свързвам
-doom	Гибел
-duck	Патица
-gentle	Лек
-international	Международен
-market	Пазар
-overhead	Отгоре
-pinto	Петнист
-property	Имот
-sexual	Сексуален
-vague	Неясен
-weary	Изтощен
-aim	Цел
-beep	Звуков сигнал
-bust	Бюст
-fade	Увяхвам
-guide	Ръководство
-instantly	Веднага
-lesson	Урок
-male	Мъжки
-mere	Обикновен
-phrase	Фраза
-terrify	Плаша
-wealth	Благосъстояние
-whilst	Докато
-chill	Хлад
-depend	Завидят
-fog	Мъгла
-friendly	Приятелски
-gravel	Дразня
-heap	Купчина
-log	Влезте
-lung	Бял дроб
-nearer	По-близо
-pad	Тампон
-pen	Писалка
-photo	Снимка
-pole	Полюс
-rip	Коцкар
-scatter	Разпръсквам
-squeeze	Изстискване
-stack	Купчина
-thy	Твоето
-appeal	Обжалване
-deserve	Заслужавам
-dread	Ужас
-electronic	Електронен
-enormous	Огромен
-importance	Значение
-invite	Каня
-pistol	Пистолет
-rang	Звъня
-route	Маршрут
-vast	Обширен
-yell	Крещя
-arrest	Арестуване
-criminal	Престъпник
-difficulty	Затруднение
-europe	Европа
-haunt	Свърталище
-intelligence	Интелигентност
-intention	Намерение
-involve	Включва
-metal	Метал
-purchase	Покупка
-stock	Наличност
-amount	Размер
-bleeding	Кървене
-colour	Цвят
-dam	Язовирна стена
-disease	Болест
-explanation	Обяснение
-inclined	Склонен
-miserable	Мизерен
-pot	Гърне
-puff	Облаче
-range	Диапазон
-rat	Плъх
-smash	Трясък
-solid	Твърд
-brush	Четка
-studio	Студио
-trunk	Багажник
-worn	Носен
-cave	Пещера
-childhood	Детство
-cook	Готвач
-deep	Дълбоко
-desperate	Отчаян
-dessert	Десерт
-hug	Прегръдка
-introduce	Въвеждам
-largest	Едър
-lick	Лижа
-progress	Напредък
-seriously	Серизоно
-slap	Шамар
-tune	Мелодия
-ability	Способност
-apple	Ябълка
-amid	Сред
-billy	Тояга
-colonel	Полковник
-conceal	Скривам
-dickens	Дявол
-equal	Равен
-freedom	Свобода
-hallway	Коридор
-honest	Честен
-mail	Поща
-mess	Бъркотия
-military	Военен
-modern	Модерен
-pushing	Бутане
-remarkable	Забележителен
-scratch	Драскотина
-snatch	Посягане
-swing	Люлка
-asshole	Задник
-blade	Острие
-blanket	Одеало
-cabin	Кабина
-commit	Ангажиран
-disturb	Безпокоя
-furniture	Мебели
-goodbye	Сбогом
-grade	Клас
-growth	Растеж
-holy	Свят
-killer	Убиец
-kindly	Любезно
-large	Голям
-maid	Прислужница
-task	Задача
-meanwhile	Междувременно
-pencil	Молив
-permit	Разрешително
-rabbit	Заек
-shone	Блестеше
-shortly	Скоро
-skirt	Пола
-snake	Змия
-tank	Резервоар
-upset	Разстроен
-value	Стойност
-agreement	Споразумение
-assume	Предполагам
-blank	Празен
-brave	Смел
-charm	Чар
-cigar	Пура
-coach	Треньор
-combination	Съчетание
-concerning	Относно
-cub	Зверче
-decision	Решение
-forgive	Прощавам
-frequently	Често
-friendship	Приятелство
-grim	Мрачен
-license	Разрешително
-pardon	Помилване
-previous	Предишен
-process	Процес
-risk	Риск
-separate	Отделен
-slid	Плъзвам
-teach	Преподавам
-total	Общо
-bring	Нося
-cough	Кашлица
-curtain	Завеса
-damage	Щета
-fled	Избягал
-howling	Виещ
-hunt	Лов
-mommy	Мама
-reserve	Резерв
-screw	Винт
-sharply	Рязко
-shelter	Подслон
-trap	Капан
-alley	Алея
-amusement	Забавление
-attendant	Придружител
-coa	Палто
-faintly	Слабо
-generally	Общо
-groan	Охкане
-hammer	Чук
-hard	Трудно
-incident	Инцидент
-inform	Информирам
-inquire	Запитвам
-owe	Дължа
-parking	Паркинг
-paw	Лапа
-peer	Взирам се
-plane	Равнина
-sandwich	Сандвич
-similar	Сходен
-tangle	Бърканица
-tore	Разкъсвам
-trade	Търговия
-truly	Наистина
-bearing	Лагер
-brilliant	Блестящ
-cheap	Евтин
-clerk	Чиновник
-conclusion	Заключение
-downtown	Център
-gardener	Градинар
-godfather	Кръстник
-irish	Ирландски
-noble	Благородник
-sale	Продажба
-scar	Белег
-seek	Търся
-angel	Ангел
-attitude	Отношение
-cart	Количка
-crept	Промъкнали
-eager	Нетърпелив
-eyebrow	Вежда
-feed	Пасане
-floating	Плаващ
-hunter	Ловец
-imagination	Въображение
-leather	Кожа
-monkey	Маймуна
-poison	Отрова
-reach	Достигам
-rifle	Пушка
-send	Изпращам
-silly	Глупав
-ankle	Глезен
-arrival	Простигане
-career	Кариера
-closing	Затваряне
-conduct	Поведение
-confuse	Обърквам
-deer	Елен
-delay	Забавяне
-design	Дизайн
-despair	Отчаяние
-expecting	Очакване
-foolish	Глупав
-foreign	Чужд
-funeral	Погребален
-giggle	Кикот
-grant	Отпускане
-innocent	Невинен
-keen	Страстен
-kitty	Писенце
-legal	Правен, законен
-measure	Мярка
-nut	Гайка
-obvious	Очевиден
-pat	Потупване
-protest	Протест
-visible	Видим
-weed	Плевел
-alien	Чужд
-armed	Въоражен
-ashamed	Засрамен
-clever	Умен
-concrete	Бетон
-conscious	Съзнателен
-contract	Договор
-council	Съвет
-crush	Ефект
-film	Филм
-glare	Ослепителен блясък
-gull	Чайка
-joint	Съвместен
-political	Политически
-pressing	Натискане
-protection	Защита
-recover	Възстановяване
-sail	Платно
-sell	Продажба
-shriek	Писък
-silk	Коприна
-sorrow	Скръб
-spill	Разлив
-tremble	Треперя
-tuesday	Вторник
-arrangement	Подреждане
-claw	Нокът
-curl	Къдря
-custom	Обичай
-disgust	Отвращение
-dripping	Капе
-encounter	Схватка
-exhaust	Ауспух
-monday	Понеделник
-murmur	Мърморене
-nowhere	Никъде
-remaining	Оставащ
-rent	Наем
-restaurant	Ресторант
-shudder	Изтръпвам
-sold	Продаден
-unusual	Необикновен
-dance	Танц
-wholly	Изцяло
-bang	Трясък
-bug	Бубулечка
-clutch	Съдеинител
-deck	Палуба
-declare	Декларирам
-fond	Нежен
-ignore	Игнорирам
-melt	Топя
-method	Метод
-toe	Пръст
-vain	Сутиен
-waist	Талия
-absence	Отсъствие
-actual	Действителен
-average	Среден
-butch	Хулиган
-carpet	Килим
-collapse	Срутване
-courtesan	Куртизанка
-eastern	Източен
-electric	Електрически
-existence	Съществуване
-extreme	Крайност
-mate	Другар
-mood	Настроение
-motor	Девиз
-obtain	Получи
-rapid	Бърз
-shaft	Вал
-site	Място
-sound	Звук
-stoop	Прегърбване
-striking	Поразителен
-sum	Сума
-victim	Жертва
-web	Мрежа
-bigg	Голям
-brick	Тухла
-consciousness	Съзнателен
-curse	Проклятие
-evident	Очевиден
-inquiry	Проучване
-issue	Издаване
-lately	Напоследък
-loving	Неженен
-perceive	Възприемам
-pitch	Катран
-persuade	Убеждавам
-reaction	Реакция
-request	Поискване
-reveal	Разкривам
-shove	Бутам
-swiftly	Бързо
-unpleasant	Неприятен
-vehicle	Носител
-weeping	Плача
-wildly	Диво
-agreeable	Приятен
-anyhow	Във всеки случай
-astonishment	Учудване
-bay	Залив
-cash	пари в брой
-considerable	Значителен
-couch	Диван
-cream	Сметана
-goddamn	Проклет
-hedge	Плет
-hopе	Надявам се
-lid	Капак
-lightly	Леко
-mud	Кал
+nightmare - кошмар
+vanish - изчезвам
+willing - склонен
+bitter - горчив
+eat - ям
+nurse - медицинска сестра
+photograph - снимка
+spell - заклинание
+warning - предупреждение
+balloon - балон
+becoming - превръща
+beg - помолвам
+birthday - рожден ден
+blame - вина
+embrace - прегръдка
+emotion - емоция
+hesitate - поколебае
+lack - липса
+leaning - навеждане
+limit - граница
+section - раздел
+waver - треперя
+detective - детектив
+dump - бунище
+early - разно
+examine - проучване
+hiding - укриване
+national - национален
+ordinary - обикновен
+rank - ранг
+relieve - облекчаване
+scout - разузнавач
+shower - душ
+supply - предлагане
+toy - играчка
+beam - лъч
+faster - по-бързо
+government - правителство
+instance - инстанция
+lightning - мълния
+midnight - полунощ
+pace - темпо
+shooting - стрелба
+stroke - удар
+bigger - по-голям
+caloric - калоричен
+grand - грандиозен
+halfway - на половината път
+horn - рог
+milk - мляко
+original - оригинал
+rough - груб
+sidewalk - тротоар
+source - източник
+afford - позволявам
+comfortable - комфортен
+courage - смелост
+deeply - дълбоко
+dirt - мръсотия
+explode - експлодирам
+gesture - жест
+growl - ръмжене
+medicine - медицина
+noon - обед
+provide - предоставям
+safety - безопасност
+secure - сигурен
+steadily - постоянно
+strain - деформация
+ticket - билет
+warn - предупреждавам
+waste - отпадъци
+weird - странен
+apply - прилагам
+bastard - копеле
+harm - вреда
+helpless - безпомощен
+matt - матов
+popular - популярен
+release - изспускане
+rope - въже
+seize - конфискува
+thou - ти
+amuse - разсмивам
+bat - прилеп
+central - централен
+continuing - продължава
+curve - крива
+hook - кука
+imperial - имперски
+leaped - заигра
+picking - бране
+rid - избавям
+sport - спорт
+style - стила
+unknown - неизвестен
+wander - скитам
+wooden - дървен
+cellar - изба
+exist - съществувам
+glimpse - бегъл поглед
+halt - застой
+height - височина
+lonely - самотен
+lose - загуба
+mighty - могъщ
+painful - болезнен
+steel - стомана
+ugly - грозен
+version - версия
+whenever - всеки път когато
+affect - засегне
+bye - чао
+confidence - доверие
+drawer - чекмедже
+eventually - евентуално
+firm - твърд
+hollow - кух
+hunting - лов
+praise - похвала
+season - сезон
+soon - скоро
+split - раздвояване
+aspirations - стремеж
+balance - баланс
+bus - автобус
+credit - кредит
+deadly - смъртоносен
+exercise - упражнение
+flood - наводнение
+gleam - блестя
+indian - индийски
+letting - отдаване под наем
+player - плейър
+prisoner - затворник
+relax - отпусни се
+rub - трия
+smoking - пушене
+thud - тупване
+yank - янки
+border - граница
+distress - бедствие
+dreadful - страшен
+extra - екстра
+extremely - извънредно
+federal - федерален
+footnote - бележка под линия
+fought - борил
+frame - кадър
+grief - скръб
+queer - ексентричен
+shame - срам
+shelf - рафт
+skull - череп
+stain - петно
+stronger - по-силен
+visitor - посетител
+wife - съпруга
+yankee - янки
+adult - възрастен
+attach - прикрепям
+fate - съдба
+ring - пръстен
+labor - труд
+rusty - ръждясал
+sand - пясък
+shown - посочен
+skill - умение
+urge - призовавам
+successful - успешно
+closely - тясно
+curiosity - любопитство
+dislike - неприязън
+drink - питие
+frozen - замръзнал
+heavily - силно
+hood - качулка
+impression - импресия
+morrow - утрешен ден
+mystery - мистерия
+protect - предпазвам
+purse - предпазвам
+sentence - изречение
+tap - кран
+torn - разкъсан
+understanding - разбирателство
+altogether - напълно
+baseball - бейзбол
+bowl - купа
+candy - бонбони
+current - течение
+despite - въпреки
+dish - ястие
+evidence - доказателства
+honour - чест
+interrupt - прекъсвам
+mount - стойка
+mutter - мърморене
+operation - операция
+princess - принцеса
+pump - помпа
+reality - реалност
+riding - езда
+satisfaction - удволетворение
+smart - умен
+spare - свободен
+throw - хвърлям
+totally - напълно
+vacation - ваканция
+acquaintance - запознанство
+cake - торта
+chase - гонитба
+click - кликане
+downstairs - на долния етаж
+education - образование
+fifth - пети
+grunt - мърморене
+population - население
+seventy - седемдесет
+slight - лек
+swallow - лястовица
+traffic - трафик
+briefly - на кратко
+connect - свързвам
+doom - гибел
+duck - патица
+gentle - лек
+international - международен
+market - пазар
+overhead - отгоре
+pinto - петнист
+property - имот
+sexual - сексуален
+vague - неясен
+weary - изтощен
+aim - цел
+beep - звуков сигнал
+bust - бюст
+fade - увяхвам
+guide - ръководство
+instantly - веднага
+lesson - урок
+male - мъжки
+mere - обикновен
+phrase - фраза
+terrify - плаша
+wealth - благосъстояние
+whilst - докато
+chill - хлад
+depend - завидят
+fog - мъгла
+friendly - приятелски
+gravel - дразня
+heap - купчина
+log - влезте
+lung - бял дроб
+nearer - по-близо
+pad - тампон
+pen - писалка
+photo - снимка
+pole - полюс
+rip - коцкар
+scatter - разпръсквам
+squeeze - изстискване
+stack - купчина
+thy - твоето
+appeal - обжалване
+deserve - заслужавам
+dread - ужас
+electronic - електронен
+enormous - огромен
+importance - значение
+invite - каня
+pistol - пистолет
+rang - звъня
+route - маршрут
+vast - обширен
+yell - крещя
+arrest - арестуване
+criminal - престъпник
+difficulty - затруднение
+europe - европа
+haunt - свърталище
+intelligence - интелигентност
+intention - намерение
+involve - включва
+metal - метал
+purchase - покупка
+stock - наличност
+amount - размер
+bleeding - кървене
+colour - цвят
+dam - язовирна стена
+disease - болест
+explanation - обяснение
+inclined - склонен
+miserable - мизерен
+pot - гърне
+puff - облаче
+range - диапазон
+rat - плъх
+smash - трясък
+solid - твърд
+brush - четка
+studio - студио
+trunk - багажник
+worn - носен
+cave - пещера
+childhood - детство
+cook - готвач
+deep - дълбоко
+desperate - отчаян
+dessert - десерт
+hug - прегръдка
+introduce - въвеждам
+largest - едър
+lick - лижа
+progress - напредък
+seriously - серизоно
+slap - шамар
+tune - мелодия
+ability - способност
+apple - ябълка
+amid - сред
+billy - тояга
+colonel - полковник
+conceal - скривам
+dickens - дявол
+equal - равен
+freedom - свобода
+hallway - коридор
+honest - честен
+mail - поща
+mess - бъркотия
+military - военен
+modern - модерен
+pushing - бутане
+remarkable - забележителен
+scratch - драскотина
+snatch - посягане
+swing - люлка
+asshole - задник
+blade - острие
+blanket - одеало
+cabin - кабина
+commit - ангажиран
+disturb - безпокоя
+furniture - мебели
+goodbye - сбогом
+grade - клас
+growth - растеж
+holy - свят
+killer - убиец
+kindly - любезно
+large - голям
+maid - прислужница
+task - задача
+meanwhile - междувременно
+pencil - молив
+permit - разрешително
+rabbit - заек
+shone - блестеше
+shortly - скоро
+skirt - пола
+snake - змия
+tank - резервоар
+upset - разстроен
+value - стойност
+agreement - споразумение
+assume - предполагам
+blank - празен
+brave - смел
+charm - чар
+cigar - пура
+coach - треньор
+combination - съчетание
+concerning - относно
+cub - зверче
+decision - решение
+forgive - прощавам
+frequently - често
+friendship - приятелство
+grim - мрачен
+license - разрешително
+pardon - помилване
+previous - предишен
+process - процес
+risk - риск
+separate - отделен
+slid - плъзвам
+teach - преподавам
+total - общо
+bring - нося
+cough - кашлица
+curtain - завеса
+damage - щета
+fled - избягал
+howling - виещ
+hunt - лов
+mommy - мама
+reserve - резерв
+screw - винт
+sharply - рязко
+shelter - подслон
+trap - капан
+alley - алея
+amusement - забавление
+attendant - придружител
+coa - палто
+faintly - слабо
+generally - общо
+groan - охкане
+hammer - чук
+hard - трудно
+incident - инцидент
+inform - информирам
+inquire - запитвам
+owe - дължа
+parking - паркинг
+paw - лапа
+peer - взирам се
+plane - равнина
+sandwich - сандвич
+similar - сходен
+tangle - бърканица
+tore - разкъсвам
+trade - търговия
+truly - наистина
+bearing - лагер
+brilliant - блестящ
+cheap - евтин
+clerk - чиновник
+conclusion - заключение
+downtown - център
+gardener - градинар
+godfather - кръстник
+irish - ирландски
+noble - благородник
+sale - продажба
+scar - белег
+seek - търся
+angel - ангел
+attitude - отношение
+cart - количка
+crept - промъкнали
+eager - нетърпелив
+eyebrow - вежда
+feed - пасане
+floating - плаващ
+hunter - ловец
+imagination - въображение
+leather - кожа
+monkey - маймуна
+poison - отрова
+reach - достигам
+rifle - пушка
+send - изпращам
+silly - глупав
+ankle - глезен
+arrival - простигане
+career - кариера
+closing - затваряне
+conduct - поведение
+confuse - обърквам
+deer - елен
+delay - забавяне
+design - дизайн
+despair - отчаяние
+expecting - очакване
+foolish - глупав
+foreign - чужд
+funeral - погребален
+giggle - кикот
+grant - отпускане
+innocent - невинен
+keen - страстен
+kitty - писенце
+legal - правен, законен
+measure - мярка
+nut - гайка
+obvious - очевиден
+pat - потупване
+protest - протест
+visible - видим
+weed - плевел
+alien - чужд
+armed - въоражен
+ashamed - засрамен
+clever - умен
+concrete - бетон
+conscious - съзнателен
+contract - договор
+council - съвет
+crush - ефект
+film - филм
+glare - ослепителен блясък
+gull - чайка
+joint - съвместен
+political - политически
+pressing - натискане
+protection - защита
+recover - възстановяване
+sail - платно
+sell - продажба
+shriek - писък
+silk - коприна
+sorrow - скръб
+spill - разлив
+tremble - треперя
+tuesday - вторник
+arrangement - подреждане
+claw - нокът
+curl - къдря
+custom - обичай
+disgust - отвращение
+dripping - капе
+encounter - схватка
+exhaust - ауспух
+monday - понеделник
+murmur - мърморене
+nowhere - никъде
+remaining - оставащ
+rent - наем
+restaurant - ресторант
+shudder - изтръпвам
+sold - продаден
+unusual - необикновен
+dance - танц
+wholly - изцяло
+bang - трясък
+bug - бубулечка
+clutch - съдеинител
+deck - палуба
+declare - декларирам
+fond - нежен
+ignore - игнорирам
+melt - топя
+method - метод
+toe - пръст
+vain - сутиен
+waist - талия
+absence - отсъствие
+actual - действителен
+average - среден
+butch - хулиган
+carpet - килим
+collapse - срутване
+courtesan - куртизанка
+eastern - източен
+electric - електрически
+existence - съществуване
+extreme - крайност
+mate - другар
+mood - настроение
+motor - девиз
+obtain - получи
+rapid - бърз
+shaft - вал
+site - място
+sound - звук
+stoop - прегърбване
+striking - поразителен
+sum - сума
+victim - жертва
+web - мрежа
+bigg - голям
+brick - тухла
+consciousness - съзнателен
+curse - проклятие
+evident - очевиден
+inquiry - проучване
+issue - издаване
+lately - напоследък
+loving - неженен
+perceive - възприемам
+pitch - катран
+persuade - убеждавам
+reaction - реакция
+request - поискване
+reveal - разкривам
+shove - бутам
+swiftly - бързо
+unpleasant - неприятен
+vehicle - носител
+weeping - плача
+wildly - диво
+agreeable - приятен
+anyhow - във всеки случай
+astonishment - учудване
+bay - залив
+cash - пари в брой
+considerable - значителен
+couch - диван
+cream - сметана
+goddamn - проклет
+hedge - плет
+hopе - надявам се
+lid - капак
+lightly - леко
+mud - кал
 
-northern	Северен
-pal	Приятел
-polish	Полиране
-program	Програма
-punch	Пунш
-regular	Редовен
-rob	Грабя
-rushing	Бързам
-saint	Светец
-sang	Пях
-shouting	Възклицание
-southern	Южен
-stagger	Залитам
-suck	Суча
-tool	Инструмен
-utterly	Напълно
-weakness	Слабост
-wizard	Магьосник
-arch	Арка
-birth	Раждане
-broadway	Бродуей
-choke	Давя
-considering	Като се има предвид
-doc	Правя
-dot	Точа
-elder	Сташий
-fruit	Плодове
-grateful	Благодарен
-helping	Подпомагане
-hum	Бучене
-kiss	Целувка
-neat	Чист
-pet	Галеник
-proof	Доказателство
-purple	Лилаво
-relate	Отнасят
-resolve	Решение
-reward	Награда
-abruptly	Рязко
-alert	Тревога
-associate	Сътрудник
-atmosphere	Атмосфера
-charming	Очарователен
-cloth	Кърпа
-confess	Признавам
-delicate	Деликатен
-deliver	Доставям
-descend	Спускам
-display	Показ
-echo	Ехо
-loser	Загубеняк
-material	Материал
-moonlight	Лунна светлина
-pearly	Бисерен
-regret	Съжалявам
-scary	Страшен
-uneasy	Непокоен
-university	Университет
-ache	Болка
-april	Април
-cheer	Ура
-clap	Плясък
-easy	По-лесно
-exceedingly	Извънредно
-highway	Магистрала
-hire	Наем
-marsh	Блато
-mid	Среден
-pin	Щифт
-piss	Напикавам
-plunge	Гмуркване
-retreat	Отстъпление
-shiver	Тръпка
-swimming	Плуване
-threat	Заплаха
-violent	Насилствен
-aloud	На глас
-beard	Брада
-bony	Костелив
-build	Строя
-cliff	Стръмна скала
-correct	Правилен
-cow	Крава
-discuss	Обсъждам
-exact	Точен
-explosion	Експлозия
-lance	Пика
-nasty	Гаден
-passenger	Пътнически
-refrigerator	Хладилник
-scientist	Учен
-suspicion	Подозрение
-tax	Такса
-trooper	Танкист
-acquainted	Запознат
-anxiety	Безпокойство
-audience	Публика
-elevator	Асансьор
-fury	Ярост
-journal	Списание
-obviously	Очевидно
-patience	Търпение
-remembering	Помня
-respond	Отговори
-severe	Тежък
-sewer	Шивач
-signal	Сигнал
-small	Малък
-sympathy	Съчувствие
-volume	Том
-wit	Остроумие
-bunk	Легло
-clue	Улика
-constant	Постоянен
-cotton	Памук
-crap	Глупости
-crossing	Пресичане
-deed	Дело
-deny	Отричам
-elf	Елф
-envelope	Плик
-exchange	Обмен
-falcon	Сокол
-foul	Фаул
-gloom	Мрак
-gaming	Игрален
-grasp	Хватка
-host	Домакин
-howl	Вой
-nymphet	Нимфа
-obey	Подчинявам
-occasionally	От време на време
-partly	Частично
-pressure	Налягане
-reckon	Смятам
-rug	Килим
-sheriff	Шериф
-silently	Безмълвно
-steep	Стръмен
-stumble	Препъване
-tend	Склонен
-trailer	Ремарке
-venture	Осмелявам се
-astonish	Учудвам
-barrel	Барел
-crawling	Лазейки
-cutting	Рязане
-daylight	Дневна светлина
-economy	Икономика
-false	Фалшив
-hay	Сено
-invisible	Невидим
-january	Януари
-justice	Правосъдие
-kindness	Доброта
-map	Карта
-mason	Зидар
-nation	Нация
-pretend	Претендирам
-propose	Предлагам
-religious	Религизионен
-roughly	Приблизително
-shatter	Разбивам
-sunlight	Слънчева светлина
-theatre	Театър
-bark	Кора
-blowing	Продухване
-butt	Мишена
-dismay	Тревога
-execution	Изълнение
-expense	Разход
-extraordinary	Необикновен
-faith	Вяра
-inn	Кръчма
-juice	Сок
-nay	Нещо повече
-panting	Пъхтя
-santa	Дядо
-shrug	Свиване
-slide	Пързалка
-sugar	Захар
-warmth	Топлина
-access	Достъп
-bacon	Бекон
-bench	Пейка
-chuckle	Кудкудякане
-coffin	Ковчег
-fan	Фен
-garbage	Боклук
-learning	Обучение
-mine	Мина
-occasional	Случаен
-resort	Курорт
-robot	Робот
-stake	Залог
-temple	Храм
-trial	Изпитание
-actor	Актьор
-alas	Уви
-album	Албум
-announce	Обявя
-bath	Баня
-bob	Боб
-bounce	Подксачане
-capable	Способен
-dreaming	Сънувам
-element	Елемент
-facing	Облицовка
-furious	Яростен
-harsh	Груб
-immediate	Непосредствен
-impress	Впечатление
-instrument	Инструмент
-lobby	Лоби
-neatly	Спретнато
-ninety	Деветнадесет
-recent	Скорошен
-register	Регистрирам
-rubber	Каучук
-setting	Обстановка
-struggling	Борещ се
-tendency	Склонност
-thee	Тебе
-verse	Стих
-weasel	Невестулка
-absolute	Абсолютен
-banger	Пушка
-breeze	Бриз
-catching	Ловене
-cereal	Зърнен
-chip	Чип
-collect	Събирам
-dive	Гмуркане
-don	Дон
-empire	Империя
-frown	Намръщвам се
-lest	Да не би да
-motive	Мотив
-orc	Арка
-pillow	Възглавница
-pilot	Пилот
-permission	Разрешение
-pouring	Изливам
-precious	Скъпоценен
-structure	Структура
-surround	Обграждам
-talent	Талант
-touching	Трогателен
-tube	Тръба
-unexpected	Неочакван
-whirl	Вихър
-worker	Работник
-zone	Тайничко
-acting	Актьорско майсторство
-basket	Кошница
-bundle	Пакет
-citizen	Гражданин
-collar	Яка
-consequence	Последица
-dressing	Обличане
-earn	Печеля
-greatly	Значително
-madness	Лудост
-occupied	Зает
-perform	Изпълнява
-performance	Прозиводителност
-rebel	Бунтар
-sixteen	Шеснадесет
-swell	Подутина
-swift	Бързи
-tender	Гледач
-tin	Повярвам
-werewolf	Повярвам
-apt	Подходящ
-belief	Вярване
-betray	Издавам
-ceiling	Таван
-darling	Любимец
-firing	Стрелба
-fort	Форт
-greet	Поздравявам
-honor	Чест
-hurrying	Бързаше
-max	Макс
-mission	Мисия
-nervously	Нервно
-possession	Владение
-powder	Прах
-ridge	Хребет
-ringing	Звънение
-scramble	Боричкане
-slightest	Малката
-sob	Под
-straighten	Оправям
-theory	Теория
-treasure	Съкровище
-biggest	Най-големият
-blown	Издухан
-bureau	Офис
-clearing	Разчистване
-cookie	Бисквитка
-crouch	Свиване
-daily	Ежедневно
-dimly	Смъртно
-disappear	Изчезнат
-emerge	Изплувам
-endless	Безкраен
-Here	Тук
-estate	Имот
-european	Европейски
-failure	Неуспех
-firmly	Здраво
-guilty	Виновен
-litter	Носилка
-muffled	Увит
-near	Близо до
-parlor	Салон
-slipping	Хлъзгане
-tiger	Тигър
-tumble	Падам
-wander	Скитам
-whoa	Стой
-accompany	Придружи
-admiration	Възхищение
-archive	Архив
-beaten	Бит
-bend	Завой
-bruise	Натъртване
-camera	Камера
-civil	Граждански
-clamp	Скоба
-compare	Сравнение
-corpse	Труп
-description	Описание
-german	Германски
-insane	Ненормален
-knob	Копче
-limp	Куцам
-moan	Стон
-neighbor	Съсед
-oblige	Задължи
-pattern	Модел
-plus	Плюс
-pond	Езерце
-return	Връщане
-statement	Изявление
-wax	Восък
-active	Активен
-burden	Тежест
-cheerful	Радостен
-cheese	Сирене
-cruel	Жесток
-cunning	Хитър
-dumb	Тъп
-employ	Работа
-hint	Намек
-income	Доход
-lantern	Фенер
-largely	До голяма степен
-neighborhood	Квартал
-outer	Външен
-pursue	Преследвам
-ridiculous	Смешен
-sally	Изблик
-seeming	Привиден
-sofa	Диван
-throughout	Навсякъде
-troop	Стадо
-unhappy	Нещастен
-wherever	Където
-addition	Допълнение
-argument	Довод
-ash	пепел
-background	Фон
-blouse	Блуза
-crew	Екипаж
-eagerly	Нетърпеливо
-equally	Еднакво
-farewell	Сбогом
-fart	Пръдня
-fright	Уплаха
-item	Артикул
-judgment	Решение
-medical	Медицински
-murderer	Убиец
-netherfield	Отвъдното
-reflection	Размисъл
-represent	Представям
-civilian	Цивилен
-solemnly	Тържествено
-staying	Пребиваващ
-strap	Каишка
-thread	Нишка
-tightly	Плътно
-weekend	Уикенд
-acknowledge	Признавам
-admire	Признавам
-amaze	Смайвам
-behaviour	Поведение
-cancer	Рак
-census	Преоброяване на население
-eighty	Осемнадесет
-endure	Задържам
-extend	Разшири
-fur	Кожа
-holiday	Празник
-humor	Хумор
-mild	Мек
-owl	Бухал
-response	Отговор
-restraint	Сдържаност
-shallow	Плитък
-shell	Черупка
-streak	Жилка
-tub	Вана
-twin	Близнак
-waking	Буден
-agony	Агония
-amazement	Изумление
-assistant	Асистент
-consist	Състои
-constantly	Постоянно
-curiously	С любопитство
-daze	Замайвам
-destruction	Унищожаване
-disposition	Разпореждане
-dusty	Прашен
-establish	Установявам
-feather	Перо
-gear	Зъбно колело
-generous	Щедър
-horizon	Хоризонт
-intense	Интензивен
-invitation	Покана
-mill	Мелница
-nothing	Нищо
-raw	Суров
-relationship	Взимоотношение
-relative	Относителен
-splash	Плясък
-stroll	Разходка
-suicide	Самоубийство
-uniform	Униформа
-vaguely	Неясно
-bicycle	Велосипед
-disappoint	Разочаровам
-fierce	Свиреп
-flung	Захвърлен
-gang	Банда
-gap	Празнина
-generation	Поколение
-heading	Заглавие
-hid	Скри
-indicate	Посочете
-infection	Инфекция
-insurance	Застраховка
-jar	Буркан
-needle	Игла
-package	Пакет
-rattle	Дрънкалка
-region	Област
-reputation	Репутация
-sleigh	Шейна
-spreading	Разпространение
-standpipe	Ветикална тръба
-stopping	Спирам
-studying	Изучаване
-surround	Обграждам
-telegram	Телеграма
-tennis	Тенис
-terribly	Ужасно
-thoroughly	Старатено
-unit	Единица
-upward	Нагоре
-wretch	Нещастник
-abandoned	Изоставен
-airport	Летище
-arose	Възникнало
-awe	Страхопочитание
-climbing	Изкачване
-coast	Крайбрежие
-embarrass	Затруднявам
-entry	Влизане
-environment	Околна среда
-equipment	Оборудване
-flip	Первам
-fourteen	Четеринадесет
-gravely	Тежко
-inner	Вътрешен
-model	Модел
-nell	Ад
-oak	Дъб
-observation	Наблюдение
-prayer	Молитва
-reasonable	Разумен
-reference	Препратка
-responsibility	Отговорност
-responsible	Отговорен
-resume	Продължи
-retire	Пенсионирам
-rim	Ръб
-rock	Скала
-scheme	Схема
-seagull	Чайка
-smell	Миризма
-sought	Търси
-storage	Съхранение
-superior	Началник
-tuck	Прегъвка
-arouse	Събуждам
-artist	Художник
-awaken	Събуждам
-baker	Пекар
-billion	Милиард
-creak	Скърцане
-divide	Вододел
-freely	Свободно
-hollywood	Холивуд
-household	Домакинство
-laying	Полагане
-league	Лига
-limb	Крайник
-loudly	Силно
-millennium	Хилядолетие
-operate	Експлоатира
-peer	Взирам се
-publish	Публикувам
-remote	Отдалечен
-ribbon	Панделка
-scrap	Парче
-sleeve	Ръкав
-stamp	Печат
-universe	Вселена
-useless	Безполезен
-arrow	Стрелка
-biting	Лют
-bump	Подутина
-chosen	Избран
-come	Идвам
-cough	Кашлица
-damp	Влажен
-dash	Тире
-dismiss	Уволнение
-district	Област
-eastward	На изток
-employee	Служител
-engineer	Инжинер
-fetch	Донасям
-filling	Пълнеж
-highest	Най-висок
-horrify	Потрисам
-jail	Затвор
-lion	Лъв
-meantime	Междувременно
-minister	Министър
-ocean	Океан
-pig	Прасе
-positive	Положителен
-practically	Практически
-pursuit	Преследване
-recently	Наскоро
-savage	Дивак
-slide	Пързалка
-spray	Спрей
-sunshine	Слънчева светлина
-widen	Разширяване
-argue	Споря
-axe	Брадва
-crow	Врана
-brand	Марка
-dig	Разкопки
-divorce	Развод
-enjoyment	Наслада
-examination	Преглед
-expert	Експерт
-grope	Опипва
-hero	Герой
-identify	Идентифициране
-lace	Дантела
-literary	Литературен
-messenger	Пратеник
-neglect	Пренебрегване
-policeman	Полицай
-rescue	Спасителен
-shopping	Пазаруване
-sneaker	Подлец
-sniff	Помирисване
-spool	Макара
-strand	Нишка
-suggestion	Внушение
-trait	Характерна черта
-trigger	Тригер
-turtle	Костенурка
-analysis	Анализ
-brightly	Бляскаво
-confident	Уверен
-crown	Корона
-cute	Сладък
-dragon	Дракон
-remarkable	Забележителен
-And	И
+northern - северен
+pal - приятел
+polish - полиране
+program - програма
+punch - пунш
+regular - редовен
+rob - грабя
+rushing - бързам
+saint - светец
+sang - пях
+shouting - възклицание
+southern - южен
+stagger - залитам
+suck - суча
+tool - инструмен
+utterly - напълно
+weakness - слабост
+wizard - магьосник
+arch - арка
+birth - раждане
+broadway - бродуей
+choke - давя
+considering - като се има предвид
+doc - правя
+dot - точа
+elder - сташий
+fruit - плодове
+grateful - благодарен
+helping - подпомагане
+hum - бучене
+kiss - целувка
+neat - чист
+pet - галеник
+proof - доказателство
+purple - лилаво
+relate - отнасят
+resolve - решение
+reward - награда
+abruptly - рязко
+alert - тревога
+associate - сътрудник
+atmosphere - атмосфера
+charming - очарователен
+cloth - кърпа
+confess - признавам
+delicate - деликатен
+deliver - доставям
+descend - спускам
+display - показ
+echo - ехо
+loser - загубеняк
+material - материал
+moonlight - лунна светлина
+pearly - бисерен
+regret - съжалявам
+scary - страшен
+uneasy - непокоен
+university - университет
+ache - болка
+april - април
+cheer - ура
+clap - плясък
+easy - по-лесно
+exceedingly - извънредно
+highway - магистрала
+hire - наем
+marsh - блато
+mid - среден
+pin - щифт
+piss - напикавам
+plunge - гмуркване
+retreat - отстъпление
+shiver - тръпка
+swimming - плуване
+threat - заплаха
+violent - насилствен
+aloud - на глас
+beard - брада
+bony - костелив
+build - строя
+cliff - стръмна скала
+correct - правилен
+cow - крава
+discuss - обсъждам
+exact - точен
+explosion - експлозия
+lance - пика
+nasty - гаден
+passenger - пътнически
+refrigerator - хладилник
+scientist - учен
+suspicion - подозрение
+tax - такса
+trooper - танкист
+acquainted - запознат
+anxiety - безпокойство
+audience - публика
+elevator - асансьор
+fury - ярост
+journal - списание
+obviously - очевидно
+patience - търпение
+remembering - помня
+respond - отговори
+severe - тежък
+sewer - шивач
+signal - сигнал
+small - малък
+sympathy - съчувствие
+volume - том
+wit - остроумие
+bunk - легло
+clue - улика
+constant - постоянен
+cotton - памук
+crap - глупости
+crossing - пресичане
+deed - дело
+deny - отричам
+elf - елф
+envelope - плик
+exchange - обмен
+falcon - сокол
+foul - фаул
+gloom - мрак
+gaming - игрален
+grasp - хватка
+host - домакин
+howl - вой
+nymphet - нимфа
+obey - подчинявам
+occasionally - от време на време
+partly - частично
+pressure - налягане
+reckon - смятам
+rug - килим
+sheriff - шериф
+silently - безмълвно
+steep - стръмен
+stumble - препъване
+tend - склонен
+trailer - ремарке
+venture - осмелявам се
+astonish - учудвам
+barrel - барел
+crawling - лазейки
+cutting - рязане
+daylight - дневна светлина
+economy - икономика
+false - фалшив
+hay - сено
+invisible - невидим
+january - януари
+justice - правосъдие
+kindness - доброта
+map - карта
+mason - зидар
+nation - нация
+pretend - претендирам
+propose - предлагам
+religious - религизионен
+roughly - приблизително
+shatter - разбивам
+sunlight - слънчева светлина
+theatre - театър
+bark - кора
+blowing - продухване
+butt - мишена
+dismay - тревога
+execution - изълнение
+expense - разход
+extraordinary - необикновен
+faith - вяра
+inn - кръчма
+juice - сок
+nay - нещо повече
+panting - пъхтя
+santa - дядо
+shrug - свиване
+slide - пързалка
+sugar - захар
+warmth - топлина
+access - достъп
+bacon - бекон
+bench - пейка
+chuckle - кудкудякане
+coffin - ковчег
+fan - фен
+garbage - боклук
+learning - обучение
+mine - мина
+occasional - случаен
+resort - курорт
+robot - робот
+stake - залог
+temple - храм
+trial - изпитание
+actor - актьор
+alas - уви
+album - албум
+announce - обявя
+bath - баня
+bob - боб
+bounce - подксачане
+capable - способен
+dreaming - сънувам
+element - елемент
+facing - облицовка
+furious - яростен
+harsh - груб
+immediate - непосредствен
+impress - впечатление
+instrument - инструмент
+lobby - лоби
+neatly - спретнато
+ninety - деветнадесет
+recent - скорошен
+register - регистрирам
+rubber - каучук
+setting - обстановка
+struggling - борещ се
+tendency - склонност
+thee - тебе
+verse - стих
+weasel - невестулка
+absolute - абсолютен
+banger - пушка
+breeze - бриз
+catching - ловене
+cereal - зърнен
+chip - чип
+collect - събирам
+dive - гмуркане
+don - дон
+empire - империя
+frown - намръщвам се
+lest - да не би да
+motive - мотив
+orc - арка
+pillow - възглавница
+pilot - пилот
+permission - разрешение
+pouring - изливам
+precious - скъпоценен
+structure - структура
+surround - обграждам
+talent - талант
+touching - трогателен
+tube - тръба
+unexpected - неочакван
+whirl - вихър
+worker - работник
+zone - тайничко
+acting - актьорско майсторство
+basket - кошница
+bundle - пакет
+citizen - гражданин
+collar - яка
+consequence - последица
+dressing - обличане
+earn - печеля
+greatly - значително
+madness - лудост
+occupied - зает
+perform - изпълнява
+performance - прозиводителност
+rebel - бунтар
+sixteen - шеснадесет
+swell - подутина
+swift - бързи
+tender - гледач
+tin - повярвам
+werewolf - повярвам
+apt - подходящ
+belief - вярване
+betray - издавам
+ceiling - таван
+darling - любимец
+firing - стрелба
+fort - форт
+greet - поздравявам
+honor - чест
+hurrying - бързаше
+max - макс
+mission - мисия
+nervously - нервно
+possession - владение
+powder - прах
+ridge - хребет
+ringing - звънение
+scramble - боричкане
+slightest - малката
+sob - под
+straighten - оправям
+theory - теория
+treasure - съкровище
+biggest - най-големият
+blown - издухан
+bureau - офис
+clearing - разчистване
+cookie - бисквитка
+crouch - свиване
+daily - ежедневно
+dimly - смъртно
+disappear - изчезнат
+emerge - изплувам
+endless - безкраен
+here - тук
+estate - имот
+european - европейски
+failure - неуспех
+firmly - здраво
+guilty - виновен
+litter - носилка
+muffled - увит
+near - близо до
+parlor - салон
+slipping - хлъзгане
+tiger - тигър
+tumble - падам
+wander - скитам
+whoa - стой
+accompany - придружи
+admiration - възхищение
+archive - архив
+beaten - бит
+bend - завой
+bruise - натъртване
+camera - камера
+civil - граждански
+clamp - скоба
+compare - сравнение
+corpse - труп
+description - описание
+german - германски
+insane - ненормален
+knob - копче
+limp - куцам
+moan - стон
+neighbor - съсед
+oblige - задължи
+pattern - модел
+plus - плюс
+pond - езерце
+return - връщане
+statement - изявление
+wax - восък
+active - активен
+burden - тежест
+cheerful - радостен
+cheese - сирене
+cruel - жесток
+cunning - хитър
+dumb - тъп
+employ - работа
+hint - намек
+income - доход
+lantern - фенер
+largely - до голяма степен
+neighborhood - квартал
+outer - външен
+pursue - преследвам
+ridiculous - смешен
+sally - изблик
+seeming - привиден
+throughout - навсякъде
+troop - стадо
+unhappy - нещастен
+wherever - където
+addition - допълнение
+argument - довод
+ash - пепел
+background - фон
+blouse - блуза
+crew - екипаж
+eagerly - нетърпеливо
+equally - еднакво
+farewell - сбогом
+fart - пръдня
+fright - уплаха
+item - артикул
+judgment - решение
+medical - медицински
+murderer - убиец
+netherfield - отвъдното
+reflection - размисъл
+represent - представям
+civilian - цивилен
+solemnly - тържествено
+staying - пребиваващ
+strap - каишка
+thread - нишка
+tightly - плътно
+weekend - уикенд
+acknowledge - признавам
+admire - признавам
+amaze - смайвам
+behaviour - поведение
+cancer - рак
+census - преоброяване на население
+eighty - осемнадесет
+endure - задържам
+extend - разшири
+fur - кожа
+holiday - празник
+humor - хумор
+mild - мек
+owl - бухал
+response - отговор
+restraint - сдържаност
+shallow - плитък
+shell - черупка
+streak - жилка
+tub - вана
+twin - близнак
+waking - буден
+agony - агония
+amazement - изумление
+assistant - асистент
+consist - състои
+constantly - постоянно
+curiously - с любопитство
+daze - замайвам
+destruction - унищожаване
+disposition - разпореждане
+dusty - прашен
+establish - установявам
+feather - перо
+gear - зъбно колело
+generous - щедър
+horizon - хоризонт
+intense - интензивен
+invitation - покана
+mill - мелница
+nothing - нищо
+raw - суров
+relationship - взимоотношение
+relative - относителен
+splash - плясък
+stroll - разходка
+suicide - самоубийство
+uniform - униформа
+vaguely - неясно
+bicycle - велосипед
+disappoint - разочаровам
+fierce - свиреп
+flung - захвърлен
+gang - банда
+gap - празнина
+generation - поколение
+heading - заглавие
+hid - скри
+indicate - посочете
+infection - инфекция
+insurance - застраховка
+jar - буркан
+needle - игла
+package - пакет
+rattle - дрънкалка
+region - област
+reputation - репутация
+sleigh - шейна
+spreading - разпространение
+standpipe - ветикална тръба
+stopping - спирам
+studying - изучаване
+surround - обграждам
+telegram - телеграма
+tennis - тенис
+terribly - ужасно
+thoroughly - старатено
+unit - единица
+upward - нагоре
+wretch - нещастник
+abandoned - изоставен
+airport - летище
+arose - възникнало
+awe - страхопочитание
+climbing - изкачване
+coast - крайбрежие
+embarrass - затруднявам
+entry - влизане
+environment - околна среда
+equipment - оборудване
+flip - первам
+fourteen - четеринадесет
+gravely - тежко
+inner - вътрешен
+model - модел
+nell - ад
+oak - дъб
+observation - наблюдение
+prayer - молитва
+reasonable - разумен
+reference - препратка
+responsibility - отговорност
+responsible - отговорен
+resume - продължи
+retire - пенсионирам
+rim - ръб
+rock - скала
+scheme - схема
+seagull - чайка
+smell - миризма
+sought - търси
+storage - съхранение
+superior - началник
+tuck - прегъвка
+arouse - събуждам
+artist - художник
+awaken - събуждам
+baker - пекар
+billion - милиард
+creak - скърцане
+divide - вододел
+freely - свободно
+hollywood - холивуд
+household - домакинство
+laying - полагане
+league - лига
+limb - крайник
+loudly - силно
+millennium - хилядолетие
+operate - експлоатира
+peer - взирам се
+publish - публикувам
+remote - отдалечен
+ribbon - панделка
+scrap - парче
+sleeve - ръкав
+stamp - печат
+universe - вселена
+useless - безполезен
+arrow - стрелка
+biting - лют
+bump - подутина
+chosen - избран
+come - идвам
+cough - кашлица
+damp - влажен
+dash - тире
+dismiss - уволнение
+district - област
+eastward - на изток
+employee - служител
+engineer - инжинер
+fetch - донасям
+filling - пълнеж
+highest - най-висок
+horrify - потрисам
+jail - затвор
+lion - лъв
+meantime - междувременно
+minister - министър
+ocean - океан
+pig - прасе
+positive - положителен
+practically - практически
+pursuit - преследване
+recently - наскоро
+savage - дивак
+slide - пързалка
+spray - спрей
+sunshine - слънчева светлина
+widen - разширяване
+argue - споря
+axe - брадва
+crow - врана
+brand - марка
+dig - разкопки
+divorce - развод
+enjoyment - наслада
+examination - преглед
+expert - експерт
+grope - опипва
+hero - герой
+identify - идентифициране
+lace - дантела
+literary - литературен
+messenger - пратеник
+neglect - пренебрегване
+policeman - полицай
+rescue - спасителен
+shopping - пазаруване
+sneaker - подлец
+sniff - помирисване
+spool - макара
+strand - нишка
+suggestion - внушение
+trait - характерна черта
+trigger - тригер
+turtle - костенурка
+analysis - анализ
+brightly - бляскаво
+confident - уверен
+crown - корона
+cute - сладък
+dragon - дракон
+remarkable - забележителен
+add - добавям
+and - и
+sofa - диван

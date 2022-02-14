@@ -37,8 +37,8 @@ def butone():
     if len(storage.get())==0:
         txt.config(text = "Textbox is empty! \n Please input translation!")
         return
-    t=name_storage.get()+'\t'+storage.get()+'\n'
-    t1=storage.get()+'\t'+name_storage.get()+'\n'
+    t=name_storage.get()+' - '+storage.get()+'\n'
+    t1=storage.get()+' - '+name_storage.get()+'\n'
     fil=open("dictionary.txt", "r")
     for line in fil:
         if t==line or t1==line:
@@ -52,7 +52,7 @@ def butone():
     f=open("dictionary.txt", "a")
     word=name_storage.get()
     translate=storage.get()
-    f.write(word+'\t'+translate+'\n')
+    f.write(word+' - '+translate+'\n')
     f.close()
     txt.config(text = "your word was written!")
     inp.destroy()

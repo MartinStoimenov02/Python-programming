@@ -18,7 +18,7 @@ while cmnd!='0':
         f=open("dictionary.txt", "a")
         word=input("write the word: ")
         translate=input("write translation of the word: ")
-        f.write(word+'-'+translate+'\n')
+        f.write(word+' - '+translate+'\n')
         f.close()
         print("your word was written!")
     
