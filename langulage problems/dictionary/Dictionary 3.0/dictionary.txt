@@ -592,12 +592,10 @@ worry - тревожа (безпокоя)
 shook - клатех
 exactly - точно (именно така)
 neck - врат, шия
-
 pencil - молив
 table - маса
 countinue - продължение
 people - хора
-
 continue - продължавам
 drink - напитка (пия)
 free - свободен (безплатно)
@@ -968,7 +966,6 @@ mina - мина
 forty - четирдесет
 simple - прост
 dozen - дузина
-hello - здравейте
 self - същност
 everybody - всички
 flash - светкавица
@@ -1036,7 +1033,6 @@ calling - повикване
 somebody - някой
 throw - хвърлям
 castle - замък
- - замирам
 storm - буря
 aside - настрана
 delight - наслада
@@ -1198,7 +1194,6 @@ anger - гняв
 button - бутон
 double - двойно
 length - дължина
-
 hanging - висящ
 spite - злоба
 attempt - опит (проба)
@@ -1799,7 +1794,6 @@ dwarf - джудже
 entrance - вход
 evidently - очевидно
 lee - завет
-
 nightmare - кошмар
 vanish - изчезвам
 willing - склонен
@@ -2400,7 +2394,6 @@ hopе - надявам се
 lid - капак
 lightly - леко
 mud - кал
-
 northern - северен
 pal - приятел
 polish - полиране
@@ -3003,3 +2996,5 @@ remarkable - забележителен
 add - добавям
 and - и
 sofa - диван
+sofa - канапе
+hello - здравейте
