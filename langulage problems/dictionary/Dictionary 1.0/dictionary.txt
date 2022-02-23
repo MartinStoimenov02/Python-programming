@@ -347,7 +347,7 @@ bed - легло
 lot - много (жребий)
 point - точка
 money - пари
-getting - -
+getting - получаване
 rest - почивка
 whole - цял
 pull - дърпам
@@ -515,7 +515,6 @@ sun - слънце
 month - месец
 shut - затварям (приклещвам)
 box - кутия
-hell - ад
 office - офис (кантора)
 during - през (по време на)
 wonder - чудо
@@ -541,7 +540,7 @@ teeth - зъби
 force - сила (енергия)
 spoke - говорех
 finish - завършвам (довършвам)
-indeed - 
+indeed - наистина
 seat - седалка (място за сядане)
 nor - нито (също така не)
 save - спасявам (спестявам)
@@ -592,12 +591,10 @@ worry - тревожа (безпокоя)
 shook - клатех
 exactly - точно (именно така)
 neck - врат, шия
-
 pencil - молив
 table - маса
 countinue - продължение
 people - хора
-
 continue - продължавам
 drink - напитка (пия)
 free - свободен (безплатно)
@@ -968,7 +965,6 @@ mina - мина
 forty - четирдесет
 simple - прост
 dozen - дузина
-hello - здравейте
 self - същност
 everybody - всички
 flash - светкавица
@@ -1036,7 +1032,6 @@ calling - повикване
 somebody - някой
 throw - хвърлям
 castle - замък
- - замирам
 storm - буря
 aside - настрана
 delight - наслада
@@ -1198,7 +1193,6 @@ anger - гняв
 button - бутон
 double - двойно
 length - дължина
-
 hanging - висящ
 spite - злоба
 attempt - опит (проба)
@@ -1799,7 +1793,6 @@ dwarf - джудже
 entrance - вход
 evidently - очевидно
 lee - завет
-
 nightmare - кошмар
 vanish - изчезвам
 willing - склонен
@@ -2400,7 +2393,6 @@ hopе - надявам се
 lid - капак
 lightly - леко
 mud - кал
-
 northern - северен
 pal - приятел
 polish - полиране
@@ -2812,7 +2804,6 @@ owl - бухал
 response - отговор
 restraint - сдържаност
 shallow - плитък
-shell - черупка
 streak - жилка
 tub - вана
 twin - близнак
@@ -3003,3 +2994,7 @@ remarkable - забележителен
 add - добавям
 and - и
 sofa - диван
+sofa - канапе
+hello - здравейте
+shell - мида
+hell - ад
