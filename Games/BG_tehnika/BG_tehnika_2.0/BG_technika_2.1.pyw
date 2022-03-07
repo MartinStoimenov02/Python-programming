@@ -216,28 +216,28 @@ def Count():
 
 screen=tk.Tk()
 screen.iconbitmap('logo.ico')
-screen.configure(bg='#cfe6ff')
+screen.configure(bg='#302080')
 screen.title("BG/EN Dictionary")
 screen.state('zoomed') 
 screen.minsize(1100, 750)
 
-txt=tk.Label(text="", fg="#1b5da8", bg="#cfe6ff", wraplengt=900, font=('Arial', 25))
+txt=tk.Label(text="", fg="#ffb030", bg="#302080", wraplengt=900, font=('Arial', 25))
 txt.pack()
 txt.place(x=30, y=30)
 
-click=tk.Button(text="", fg="#cfe6ff", bg="#1b5da8", wraplengt=300, height=3, width=25, font=('Arial', 20))
+click=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=300, height=3, width=25, font=('Arial', 20))
 click.pack_forget()
 
-click1=tk.Button(text="", fg="#cfe6ff", bg="#1b5da8", wraplengt=300, height=3, width=25, font=('Arial', 20))
+click1=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=300, height=3, width=25, font=('Arial', 20))
 click1.pack_forget()
 
-click2=tk.Button(text="", fg="#cfe6ff", bg="#1b5da8", wraplengt=300, height=3, width=25, font=('Arial', 20))
+click2=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=300, height=3, width=25, font=('Arial', 20))
 click2.pack_forget()
 
-click3=tk.Button(text="", fg="#cfe6ff", bg="#1b5da8", wraplengt=300, height=3, width=25, font=('Arial', 20))
+click3=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=300, height=3, width=25, font=('Arial', 20))
 click3.pack_forget()
 
-but=tk.Button(text="", fg="#cfe6ff", bg="#1b5da8", wraplengt=300, height=3, width=25, font=('Arial', 20))
+but=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=300, height=3, width=25, font=('Arial', 20))
 but.pack_forget()
 
 Start()
