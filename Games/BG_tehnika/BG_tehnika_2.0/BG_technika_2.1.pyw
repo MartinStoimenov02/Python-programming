@@ -6,23 +6,36 @@ def Start():
     txt.config(text = "Играта съдържа 10 въпроса. За всеки въпрос има няколко възможни отговори, от които само един е верен. Ако бъде избран грешен отговор играта приключва и спечелената сума се дели на две. Играча има право да се откаже(избира 0 като отговор) и така да запази спечелената до тук сума. Играчаът има право да заключи една сигурна сума, която при грешно даден отговор, ще се запази. В играта има 3 жокера: '50/50'(за да го използвате напишете 50 като отговор), 'текст'(100) и 'пропускане на въпрос'(66).")
     but.config(text="START!", command=lst)
     but.pack()
-    but.place(x=300, y=500)
+    but.place(x=300, y=425)
     click.place_forget()
     click1.place_forget()
     click2.place_forget()
     click3.place_forget()
+    jock1['state']='disable'
+    jock2['state']='disable'
+    jock3['state']='disable'
+    jock4['state']='disable'
+    for i in lsum:
+        i['state']='disable'
   
 def lst():
     global ls
     global br
     br=0
     ls=[]
+    jock1['state']='normal'
+    jock2['state']='normal'
+    jock3['state']='normal'
+    jock4['state']='normal'
+    for i in lsum:
+        i['state']='normal'
     while len(ls)!=10:
         r=random.randint(0,17)
         if r not in ls: ls.append(r)
     Questions()
     
 def Questions():
+    global l, otg, s, info
     for i in ls:
         if i==0:
             s="В кой град и коя година е създаден българският завод 'РЕСПРОМ'('Битова електроника')?"
@@ -177,19 +190,19 @@ def QuAns(s, l, otg, info):
     
     click.config(text=l[0], command=lambda: Check(l[0], otg))
     click.pack()
-    click.place(x=50, y=200)
+    click.place(x=30, y=200)
 
     click1.config(text=l[1], command=lambda: Check(l[1], otg))
     click1.pack()
-    click1.place(x=500, y=200)
+    click1.place(x=450, y=200)
 
     click2.config(text=l[2], command=lambda: Check(l[2], otg))
     click2.pack()
-    click2.place(x=50, y=350)
+    click2.place(x=30, y=350)
 
     click3.config(text=l[3], command=lambda: Check(l[3], otg))
     click3.pack()
-    click3.place(x=500, y=350)
+    click3.place(x=450, y=350)
     
     but.place_forget()
     
@@ -213,6 +226,28 @@ def Count():
     click1.place_forget()
     click2.place_forget()
     click3.place_forget()
+    jock1['state']='disable'
+    jock2['state']='disable'
+    jock3['state']='disable'
+    jock4['state']='disable'
+    for i in lsum:
+        i['state']='disable'
+        
+def Fifty():
+    print(otg)
+    print(l)
+    l.remove(otg)
+    l.pop() 
+    l.pop()
+    l.append(otg)
+    l.append("")
+    l.append("")
+    print(otg)
+    print(l)
+    jock1['state']='disable'
+    QuAns(s, l, otg, info)
+
+    
 
 screen=tk.Tk()
 screen.iconbitmap('logo.ico')
@@ -221,7 +256,7 @@ screen.title("BG/EN Dictionary")
 screen.state('zoomed') 
 screen.minsize(1100, 750)
 
-txt=tk.Label(text="", fg="#ffb030", bg="#302080", wraplengt=900, font=('Arial', 25))
+txt=tk.Label(text="", fg="#ffb030", bg="#302080", wraplengt=850, font=('Arial', 25))
 txt.pack()
 txt.place(x=30, y=30)
 
@@ -237,8 +272,52 @@ click2.pack_forget()
 click3=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=300, height=3, width=25, font=('Arial', 20))
 click3.pack_forget()
 
+jock1=tk.Button(text="50/50", fg="#ffb030", bg="#0b063d", wraplengt=120, height=2, width=10, font=('Arial', 20), command=Fifty)
+jock1.pack(anchor='e', pady=17, padx=20)
+
+jock2=tk.Button(text="пропусни", fg="#ffb030", bg="#0b063d", wraplengt=120, height=2, width=10, font=('Arial', 20))
+jock2.pack(anchor='e', pady=17, padx=20)
+
+jock3=tk.Button(text="текст", fg="#ffb030", bg="#0b063d", wraplengt=120, height=2, width=10, font=('Arial', 20))
+jock3.pack(anchor='e', pady=17, padx=20)
+
+jock4=tk.Button(text="отказ", fg="#ffb030", bg="#0b063d", wraplengt=120, height=2, width=10, font=('Arial', 20))
+jock4.pack(anchor='e', pady=17, padx=20)
+
 but=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=300, height=3, width=25, font=('Arial', 20))
 but.pack_forget()
+
+sum=tk.Label(text="100", fg="#ffb030", wraplength=1, bg="#0b063d", height=5, width=3, font=('Arial', 25))
+sum.pack(anchor="s", side='left', pady=0, padx=20)
+
+sum1=tk.Label(text="200", fg="#ffb030", wraplength=1, bg="#0b063d", height=5, width=3, font=('Arial', 25))
+sum1.pack(anchor="s", side='left', pady=0, padx=20)
+
+sum2=tk.Label(text="300", fg="#ffb030", wraplength=1, bg="#0b063d", height=5, width=3, font=('Arial', 25))
+sum2.pack(anchor="s", side='left', pady=0, padx=20)
+
+sum3=tk.Label(text="400", fg="#ffb030", wraplength=1, bg="#0b063d", height=5, width=3, font=('Arial', 25))
+sum3.pack(anchor="s", side='left', pady=0, padx=20)
+
+sum4=tk.Label(text="500", fg="#ffb030", wraplength=1, bg="#0b063d", height=5, width=3, font=('Arial', 25))
+sum4.pack(anchor="s", side='left', pady=0, padx=20)
+
+sum5=tk.Label(text="600", fg="#ffb030", wraplength=1, bg="#0b063d", height=5, width=3, font=('Arial', 25))
+sum5.pack(anchor="s", side='left', pady=0, padx=20)
+
+sum6=tk.Label(text="700", fg="#ffb030", wraplength=1, bg="#0b063d", height=5, width=3, font=('Arial', 25))
+sum6.pack(anchor="s", side='left', pady=0, padx=20)
+
+sum7=tk.Label(text="800", fg="#ffb030", wraplength=1, bg="#0b063d", height=5, width=3, font=('Arial', 25))
+sum7.pack(anchor="s", side='left', pady=0, padx=20)
+
+sum8=tk.Label(text="900", fg="#ffb030", wraplength=1, bg="#0b063d", height=5, width=3, font=('Arial', 25))
+sum8.pack(anchor="s", side='left', pady=0, padx=20)
+
+sum9=tk.Label(text="1000", fg="#ffb030", wraplength=1, bg="#0b063d", height=5, width=3, font=('Arial', 25))
+sum9.pack(anchor="s", side='left', pady=0, padx=20)
+
+lsum=[sum, sum1, sum2, sum3, sum4, sum5, sum6, sum7, sum8, sum9]
 
 Start()
 
