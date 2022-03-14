@@ -8,10 +8,10 @@ import tkinter as tk
 def Start():
     global jok
     jok=4
-    txt.config(text = "Играта съдържа 10 въпроса. За всеки въпрос има няколко възможни отговори, от които само един е верен. Ако бъде избран грешен отговор играта приключва и спечелената сума се дели на две. Играча има право да се откаже(избира 0 като отговор) и така да запази спечелената до тук сума. Играчаът има право да заключи една сигурна сума, която при грешно даден отговор, ще се запази. В играта има 3 жокера: '50/50'(за да го използвате напишете 50 като отговор), 'текст'(100) и 'пропускане на въпрос'(66).", font=('Arial', 25))
-    but.config(text="START!", command=lst)
-    but.pack()
-    but.place(x=300, y=425)
+    txt.config(text = "Играта съдържа 10 въпроса. За всеки въпрос има няколко възможни отговори, от които само един е верен. Ако бъде избран грешен отговор играта приключва и спечелената сума се дели на две. Играча има право да се откаже(избира 0 като отговор) и така да запази спечелената до тук сума. Играчаът има право да заключи една сигурна сума, която при грешно даден отговор, ще се запази. В играта има 3 жокера: '50/50'(за да го използвате напишете 50 като отговор), 'текст'(100) и 'пропускане на въпрос'(66).", font=('Arial', 20))
+    jock4.config(text="START!", command=lst)
+    jock4.pack()
+    jock4.place(x=20, y=430)
     click.place_forget()
     click1.place_forget()
     click2.place_forget()
@@ -19,7 +19,6 @@ def Start():
     jock1['state']='disable'
     jock2['state']='disable'
     jock3['state']='disable'
-    jock4['state']='disable'
     for i in lsum:
         i['state']='disable'
   
@@ -37,7 +36,7 @@ def lst():
     jock1['state']='normal'
     jock2['state']='normal'
     jock3['state']='normal'
-    jock4['state']='normal'
+    jock4.config(text="отказ", command=Otk)
     for i in lsum:
         i['state']='normal'
     while len(ls)!=10:
@@ -203,28 +202,29 @@ def QuAns(s, l, otg, info):
     next.pack_forget()
     lock.pack()
     lock.pack_forget()
+    label2.pack()
+    label2.pack_forget()
     
     click.config(text=l[0], command=lambda: Check(l[0], otg))
     click.pack()
-    click.place(x=30, y=200)
+    click.place(x=230, y=250)
     click['state']='normal'
 
     click1.config(text=l[1], command=lambda: Check(l[1], otg))
     click1.pack()
-    click1.place(x=450, y=200)
+    click1.place(x=650, y=250)
     click1['state']='normal'
 
     click2.config(text=l[2], command=lambda: Check(l[2], otg))
     click2.pack()
-    click2.place(x=30, y=350)
+    click2.place(x=230, y=400)
     click2['state']='normal'
 
     click3.config(text=l[3], command=lambda: Check(l[3], otg))
     click3.pack()
-    click3.place(x=450, y=350)
+    click3.place(x=650, y=400)
     click3['state']='normal'
-    lsum[br].config(fg="#0b063d", bg="#ffb030")
-    but.place_forget()    
+    lsum[br].config(fg="#0b063d", bg="#ffb030")  
     
 def Check(ans, otg):
     global br
@@ -240,16 +240,16 @@ def Count():
         txt.config(text="Джакпот! Верни отговори: "+str(br)+'\n'+'Спечели: '+str(br*100+jok*100)+' лв.', font=('Arial', 25))
         lsum[br-1].config(fg="#ffb030", bg="#0b063d")
         label1.pack()
-        label1.place(x=30, y=270)
+        label1.place(x=230, y=270)
     else:
         txt.config(text="За съжаление сбърка... Верни отговори: "+str(br)+'\n'+'Спечели: '+str((br*100)/2)+' лв.', font=('Arial', 25))
         lsum[br].config(fg="#ffb030", bg="#0b063d")
         label.pack()
-        label.place(x=30, y=270)
+        label.place(x=230, y=270)
     
-    but.config(text="Нова игра?", command=lst)
-    but.pack()
-    but.place(x=30, y=120)
+    jock4.config(text="Нова игра?", command=lst)
+    jock4.pack()
+    jock4.place(x=20, y=430)
     next.pack()
     next.pack_forget()
     lock.pack()
@@ -261,7 +261,6 @@ def Count():
     jock1['state']='disable'
     jock2['state']='disable'
     jock3['state']='disable'
-    jock4['state']='disable'
     for i in lsum:
         i['state']='disable'
 
@@ -270,14 +269,15 @@ def TrueAns():
     click1.place_forget()
     click2.place_forget()
     click3.place_forget()
-    label2.pack(side='top', pady=0, padx=0)
+    label2.pack()
+    label2.place(x=20, y=20)
     txt.config(text=info, font=('Arial', 20))
     next.config(text="Следващ", command=Questions)
     next.pack()
-    next.place(x=30, y=430)
+    next.place(x=250, y=430)
     lock.config(text="Заключи сума")
     lock.pack()
-    lock.place(x=450, y=430)
+    lock.place(x=650, y=430)
         
 def Fifty():
     global jok, fif
@@ -309,6 +309,9 @@ def Texty():
     jock3['state']='disable'
     messagebox.showinfo('Информация', info)
 
+def Otk():
+    pass
+
 screen=Tk()
 screen.iconbitmap('logo.ico')
 screen.configure(bg='#302080')
@@ -318,7 +321,8 @@ screen.minsize(1100, 750)
 
 txt=tk.Label(text="", fg="#ffb030", bg="#302080", wraplengt=850)
 txt.pack()
-txt.place(x=30, y=30)
+txt.place(x=230, y=20)
+
 
 click=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=300, height=3, width=25, font=('Arial', 20))
 click.pack_forget()
@@ -335,19 +339,20 @@ click3.pack_forget()
 lclick=[click, click1, click2, click3]
 
 jock1=tk.Button(text="50/50", fg="#ffb030", bg="#0b063d", wraplengt=120, height=2, width=10, font=('Arial', 20), command=Fifty)
-jock1.pack(anchor='e', pady=17, padx=20)
+jock1.pack()
+jock1.place(x=20, y=20)
 
 jock2=tk.Button(text="пропусни", fg="#ffb030", bg="#0b063d", wraplengt=120, height=2, width=10, font=('Arial', 20), command=Skipy)
-jock2.pack(anchor='e', pady=17, padx=20)
+jock2.pack()
+jock2.place(x=20, y=120)
 
 jock3=tk.Button(text="текст", fg="#ffb030", bg="#0b063d", wraplengt=120, height=2, width=10, font=('Arial', 20), command=Texty)
-jock3.pack(anchor='e', pady=17, padx=20)
+jock3.pack()
+jock3.place(x=20, y=220)
 
-jock4=tk.Button(text="отказ", fg="#ffb030", bg="#0b063d", wraplengt=120, height=2, width=10, font=('Arial', 20))
-jock4.pack(anchor='e', pady=64, padx=25)
-
-but=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=300, height=3, width=25, font=('Arial', 20))
-but.pack_forget()
+jock4=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=120, height=2, width=10, font=('Arial', 20))
+jock4.pack()
+jock4.place(x=20, y=430)
 
 sum=tk.Label(text="100", fg="#ffb030", wraplength=1, bg="#0b063d", height=5, width=3, font=('Arial', 25))
 sum.pack(anchor="s", side='left', pady=0, padx=20)
@@ -388,7 +393,7 @@ img1 = ImageTk.PhotoImage(Image.open("money.png"))
 label1 = tk.Label(image=img1, height=200, width=820)
 
 img2 = ImageTk.PhotoImage(Image.open("mark.png"))
-label2 = tk.Label(image=img2, height=800, width=200)
+label2 = tk.Label(image=img2, height=370, width=200)
 
 next=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=300, height=2, width=20, font=('Arial', 20))
 next.pack_forget()

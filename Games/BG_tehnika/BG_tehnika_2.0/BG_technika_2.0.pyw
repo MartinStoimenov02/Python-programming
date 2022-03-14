@@ -217,7 +217,7 @@ def Count():
 screen=tk.Tk()
 screen.iconbitmap('logo.ico')
 screen.configure(bg='#cfe6ff')
-screen.title("BG/EN Dictionary")
+screen.title("Българската техника на 20-ти век")
 #screen.state('zoomed') 
 screen.geometry("950x500") 
 screen.minsize(950, 500)
