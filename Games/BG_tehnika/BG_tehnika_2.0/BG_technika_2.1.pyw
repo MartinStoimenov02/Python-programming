@@ -8,7 +8,7 @@ import tkinter as tk
 def Start():
     global jok
     jok=4
-    txt.config(text = "Играта съдържа 10 въпроса. За всеки въпрос има няколко възможни отговори, от които само един е верен. Ако бъде избран грешен отговор играта приключва и спечелената сума се дели на две. Играча има право да се откаже(избира 0 като отговор) и така да запази спечелената до тук сума. Играчаът има право да заключи една сигурна сума, която при грешно даден отговор, ще се запази. В играта има 3 жокера: '50/50'(за да го използвате напишете 50 като отговор), 'текст'(100) и 'пропускане на въпрос'(66).", font=('Arial', 25))
+    txt.config(text = "Играта съдържа 10 въпроса. За всеки въпрос има няколко възможни отговори, от които само един е верен. Ако бъде избран грешен отговор играта приключва и спечелената сума се дели на две. В играта има 3 жокера: '50/50', 'информация' и 'пропускане на въпрос'. Максималната възможна сума за спечелване е 1400 лв: по 100 на всеки правилно отговорен въпрос и по 100 за всеки неизползван жокер(+заключена сума)!", font=('Arial', 25))
     but.config(text="START!", command=lst)
     but.pack()
     but.place(x=300, y=425)
@@ -19,7 +19,6 @@ def Start():
     jock1['state']='disable'
     jock2['state']='disable'
     jock3['state']='disable'
-    jock4['state']='disable'
     for i in lsum:
         i['state']='disable'
   
@@ -37,7 +36,6 @@ def lst():
     jock1['state']='normal'
     jock2['state']='normal'
     jock3['state']='normal'
-    jock4['state']='normal'
     for i in lsum:
         i['state']='normal'
     while len(ls)!=10:
@@ -199,10 +197,7 @@ def Questions():
 def QuAns(s, l, otg, info):
     random.shuffle(l) 
     txt.config(text=s, font=('Arial', 25))
-    next.pack()
-    next.pack_forget()
-    lock.pack()
-    lock.pack_forget()
+    jock4['state']='disable'
     
     click.config(text=l[0], command=lambda: Check(l[0], otg))
     click.pack()
@@ -250,10 +245,7 @@ def Count():
     but.config(text="Нова игра?", command=lst)
     but.pack()
     but.place(x=30, y=120)
-    next.pack()
-    next.pack_forget()
-    lock.pack()
-    lock.pack_forget()
+    jock4['state']='disable'
     click.place_forget()
     click1.place_forget()
     click2.place_forget()
@@ -261,7 +253,6 @@ def Count():
     jock1['state']='disable'
     jock2['state']='disable'
     jock3['state']='disable'
-    jock4['state']='disable'
     for i in lsum:
         i['state']='disable'
 
@@ -270,14 +261,8 @@ def TrueAns():
     click1.place_forget()
     click2.place_forget()
     click3.place_forget()
-    label2.pack(side='top', pady=0, padx=0)
     txt.config(text=info, font=('Arial', 20))
-    next.config(text="Следващ", command=Questions)
-    next.pack()
-    next.place(x=30, y=430)
-    lock.config(text="Заключи сума")
-    lock.pack()
-    lock.place(x=450, y=430)
+    jock4['state']='normal'
         
 def Fifty():
     global jok, fif
@@ -343,8 +328,9 @@ jock2.pack(anchor='e', pady=17, padx=20)
 jock3=tk.Button(text="текст", fg="#ffb030", bg="#0b063d", wraplengt=120, height=2, width=10, font=('Arial', 20), command=Texty)
 jock3.pack(anchor='e', pady=17, padx=20)
 
-jock4=tk.Button(text="отказ", fg="#ffb030", bg="#0b063d", wraplengt=120, height=2, width=10, font=('Arial', 20))
+jock4=tk.Button(text="следващ", fg="#ffb030", bg="#0b063d", wraplengt=120, height=2, width=10, font=('Arial', 20), command=Questions)
 jock4.pack(anchor='e', pady=64, padx=25)
+jock4['state']='disable'
 
 but=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=300, height=3, width=25, font=('Arial', 20))
 but.pack_forget()
@@ -386,15 +372,6 @@ label = tk.Label(image=img, height=225, width=720)
 
 img1 = ImageTk.PhotoImage(Image.open("money.png"))
 label1 = tk.Label(image=img1, height=200, width=820)
-
-img2 = ImageTk.PhotoImage(Image.open("mark.png"))
-label2 = tk.Label(image=img2, height=800, width=200)
-
-next=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=300, height=2, width=20, font=('Arial', 20))
-next.pack_forget()
-
-lock=tk.Button(text="Заключи сума", fg="#ffb030", bg="#0b063d", wraplengt=300, height=2, width=20, font=('Arial', 20))
-lock.pack_forget()
 
 Start()
 
