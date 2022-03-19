@@ -6,8 +6,11 @@ from PIL import Image, ImageTk
 import tkinter as tk
 
 def Start():
-    global jok
+    global jok, otk, zak, price
+    price=''
+    otk=0
     jok=4
+    zak=0
     txt.config(text = "Играта съдържа 10 въпроса. За всеки въпрос има няколко възможни отговори, от които само един е верен. Ако бъде избран грешен отговор играта приключва и спечелената сума се дели на две. Играчът има право да се откаже по всяко време и така да запази спечелената до тук сума. Играчът има право да заключи една сигурна сума, която при грешно даден отговор, ще се запази. В играта има 3 жокера: '50/50', 'информация' и 'пропускане на въпрос'. Максималната възможна сума за спечелване е 1400 лв: по 100 на всеки правилно отговорен въпрос и по 100 за всеки неизползван жокер(+заключена сума)!", font=('Arial', 20))    
     jock4.config(text="START!", command=lst)
     jock4.pack()
@@ -45,8 +48,10 @@ def lst():
     Questions()
     
 def Questions():
-    global l, otg, s, info
+    global l, otg, s, info, price
     lsum[br-1].config(fg="#ffb030", bg="#0b063d")
+    if lsum[br-1]['text']==price:
+        lsum[br-1].config(fg="#ffb030", bg="#ff1f1f")
     for i in ls:
         if i==0:
             s="В кой град и коя година е създаден българският завод 'РЕСПРОМ'('Битова електроника')?"
@@ -194,8 +199,8 @@ def Questions():
     else:
           Count()
              
-
 def QuAns(s, l, otg, info):
+    global price
     random.shuffle(l) 
     txt.config(text=s, font=('Arial', 25))
     next.pack()
@@ -225,27 +230,49 @@ def QuAns(s, l, otg, info):
     click3.place(x=650, y=400)
     click3['state']='normal'
     lsum[br].config(fg="#0b063d", bg="#ffb030")  
+    if lsum[br]['text']==price:
+        lsum[br].config(fg="#ffb030", bg="#ff1f1f")
+    
+    for i in lclick:
+        if i['text']==otg:
+            i.config(activebackground="#49a617")
+        elif i['text']!=otg:
+            i.config(activebackground="#ff1f1f")
     
 def Check(ans, otg):
-    global br
+    global br, otk
     if ans==otg:
         br+=1
         lsum[br-1]['state']='disable'
+        time.sleep(1)
         TrueAns()
     else:
+        otk=0         
+        time.sleep(1)
         Count()
 
 def Count():
+    global zak, price
     if br==10:
         txt.config(text="Джакпот! Верни отговори: "+str(br)+'\n'+'Спечели: '+str(br*100+jok*100)+' лв.', font=('Arial', 25))
         lsum[br-1].config(fg="#ffb030", bg="#0b063d")
         label1.pack()
         label1.place(x=230, y=270)
-    else:
+    elif otk==1:
+        txt.config(text="Отказахте се от играта! Верни отговори: "+str(br)+'\n'+'Спечели: '+str((br*100))+' лв.', font=('Arial', 25))
+        lsum[br-1].config(fg="#ffb030", bg="#0b063d")
+        label1.pack()
+        label1.place(x=230, y=270)
+    elif otk==0 and zak==0:
         txt.config(text="За съжаление сбърка... Верни отговори: "+str(br)+'\n'+'Спечели: '+str((br*100)/2)+' лв.', font=('Arial', 25))
         lsum[br].config(fg="#ffb030", bg="#0b063d")
         label.pack()
         label.place(x=230, y=270)
+    elif zak==1:
+        txt.config(text="Играта завърши! Верни отговори: "+str(br)+'\n'+'Спечели заключената сума: '+price+' лв.', font=('Arial', 25))
+        lsum[br-1].config(fg="#ffb030", bg="#0b063d")
+        label1.pack()
+        label1.place(x=230, y=270)
     
     jock4.config(text="Нова игра?", command=lst)
     jock4.pack()
@@ -263,6 +290,10 @@ def Count():
     jock3['state']='disable'
     for i in lsum:
         i['state']='disable'
+        i.config(fg="#ffb030", bg="#0b063d")
+    lock['state']='normal'
+    zak=0
+    price=''
 
 def TrueAns():
     click.place_forget()
@@ -275,7 +306,6 @@ def TrueAns():
     next.config(text="Следващ", command=Questions)
     next.pack()
     next.place(x=250, y=430)
-    lock.config(text="Заключи сума")
     lock.pack()
     lock.place(x=650, y=430)
         
@@ -295,8 +325,7 @@ def Fifty():
     jock1['state']='disable'
 
 def Skipy():
-    global jok
-    global br
+    global jok, br
     jok=jok-1
     lsum[br].config(fg="#ffb030", bg="#0b063d")
     br+=1
@@ -310,7 +339,17 @@ def Texty():
     messagebox.showinfo('Информация', info)
 
 def Otk():
-    pass
+    global otk
+    otk=1
+    Count()
+    
+def Lock():
+    global zak, price, jok
+    zak=1
+    jok=jok-1
+    price=lsum[br]['text']
+    lsum[br].config(fg="#ffb030", bg="#ff1f1f")
+    lock['state']='disable'
 
 screen=Tk()
 screen.iconbitmap('logo.ico')
@@ -323,16 +362,16 @@ txt=tk.Label(text="", fg="#ffb030", bg="#302080", wraplengt=850)
 txt.pack()
 txt.place(x=230, y=20)
 
-click=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=300, height=3, width=25, font=('Arial', 20))
+click=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=300, height=3, width=25, activebackground='white', font=('Arial', 20))
 click.pack_forget()
 
-click1=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=300, height=3, width=25, font=('Arial', 20))
+click1=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=300, height=3, width=25, activebackground='white', font=('Arial', 20))
 click1.pack_forget()
 
-click2=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=300, height=3, width=25, font=('Arial', 20))
+click2=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=300, height=3, width=25, activebackground='white', font=('Arial', 20))
 click2.pack_forget()
 
-click3=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=300, height=3, width=25, font=('Arial', 20))
+click3=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=300, height=3, width=25, activebackground='white', font=('Arial', 20))
 click3.pack_forget()
 
 lclick=[click, click1, click2, click3]
@@ -397,7 +436,7 @@ label2 = tk.Label(image=img2, height=370, width=200)
 next=tk.Button(text="", fg="#ffb030", bg="#0b063d", wraplengt=300, height=2, width=20, font=('Arial', 20))
 next.pack_forget()
 
-lock=tk.Button(text="Заключи сума", fg="#ffb030", bg="#0b063d", wraplengt=300, height=2, width=20, font=('Arial', 20))
+lock=tk.Button(text="Заключи сума", fg="#ffb030", bg="#0b063d", wraplengt=300, height=2, width=20, font=('Arial', 20), command=Lock)
 lock.pack_forget()
 
 Start()
