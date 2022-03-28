@@ -44,7 +44,7 @@ def lst():
     for i in lsum:
         i['state']='normal'
     while len(ls)!=10:
-        r=random.randint(0,20)
+        r=random.randint(0,30)
         if r not in ls: ls.append(r)
     Questions()
     
@@ -171,6 +171,7 @@ def TrueAns():
     txt.config(text=info, font=('Arial', 20))
     if br==10:
         next.config(text="Завърши!", command=Questions)
+        lock['state']='disable'
     else:
         next.config(text="Следващ", command=Questions)
     next.pack()
