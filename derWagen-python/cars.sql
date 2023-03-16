@@ -22,14 +22,17 @@ VALUES ("Krum Sultov", "0987654321", "krumsultov14", "1234567");
 DROP TABLE usr;
 
 SELECT * FROM cars.usr;
+SELECT * FROM car;
 
 select * from usr where usrName="martincho" and pass="1234567";
 select * from usr where usrName="krumtheidol" and pass="-273423278";
 select * from usr where usrName="krumsultov14" and pass="-273423278";
 
-Update usr set savedAds = "3,1" where id="1";
+Update usr set savedAds = "" where id=7;
 
-DELETE FROM usr WHERE id=16;
+Update car set price = "15000" where id=21;
+
+DELETE FROM usr WHERE id=28;
 
 
 

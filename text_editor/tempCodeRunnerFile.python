@@ -1,0 +1,6 @@
+n = int(input());
+text=input();
+
+n*print((n*" ")+"~ ~ ~");
+print((3 * n + 6)*"=");
+
